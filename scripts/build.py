@@ -508,43 +508,10 @@ def build_404():
     (OUT / '404.html').write_text(tpl, encoding='utf-8')
 
 
-# Archivos de WordPress que el paquete no trae (listados por fecha/autor y la página 2 de la
-# categoría). Mientras no se tenga su HTML se redirigen temporalmente (302) para no dar 404.
-# Si luego se agrega su HTML a PAGES, quitar la ruta de esta lista.
-FALLBACK_REDIRECTS = [
-    ('/category/uncategorized/page/:n/', '/category/uncategorized/'),
-    ('/author/:name/', '/blog/'),
-    ('/author/:name/page/:n/', '/blog/'),
-    ('/:year(\\d{4})/', '/blog/'),
-    ('/:year(\\d{4})/:month(\\d{2})/', '/blog/'),
-    ('/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/', '/blog/'),
-    ('/blog/page/:n/', '/blog/'),
-]
-
-
 def build_redirects(shortlinks):
-    """vercel.json y .htaccess con: atajos ?p=ID de WordPress (301) y archivos faltantes (302)."""
-    cfg = json.loads((SRC / 'raiz/vercel.json').read_text(encoding='utf-8'))
-    for pid, route in sorted(shortlinks.items(), key=lambda kv: int(kv[0])):
-        for key in ('p', 'page_id'):
-            cfg['redirects'].append({'source': '/', 'has': [{'type': 'query', 'key': key, 'value': pid}],
-                                     'destination': route, 'permanent': True})
-    for src, dst in FALLBACK_REDIRECTS:
-        cfg['redirects'].append({'source': src, 'destination': dst, 'permanent': False})
-    (OUT / 'vercel.json').write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-
-    rules = ['', '# --- Generado por scripts/build.py ---', '<IfModule mod_rewrite.c>',
-             '# Atajos de WordPress (?p=ID / ?page_id=ID) -> URL definitiva']
-    for pid, route in sorted(shortlinks.items(), key=lambda kv: int(kv[0])):
-        rules += ['RewriteCond %%{QUERY_STRING} (^|&)(p|page_id)=%s(&|$)' % pid, 'RewriteRule ^$ %s? [R=301,L]' % route]
-    rules += ['# Archivos de WordPress que aún no se migraron (temporal)',
-              'RewriteRule ^category/uncategorized/page/[0-9]+/?$ /category/uncategorized/ [R=302,L]',
-              'RewriteRule ^author/[^/]+(/page/[0-9]+)?/?$ /blog/ [R=302,L]',
-              'RewriteRule ^[0-9]{4}(/[0-9]{2}(/[0-9]{2})?)?/?$ /blog/ [R=302,L]',
-              'RewriteRule ^blog/page/[0-9]+/?$ /blog/ [R=302,L]',
-              '</IfModule>', '']
-    with open(OUT / '.htaccess', 'a', encoding='utf-8') as fh:
-        fh.write('\n'.join(rules))
+    """worker/atajos.json: atajos ?p=ID de WordPress -> URL definitiva (los aplica worker/index.js)."""
+    data = dict(sorted(shortlinks.items(), key=lambda kv: int(kv[0])))
+    (ROOT / 'worker/atajos.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
 
 def main():
@@ -571,8 +538,6 @@ def main():
     for extra in ('/wp-content/plugins/whatsapp-for-wordpress/assets/img/whatsapp_logo.svg',
                   '/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js'):
         publish_static(extra, manifest)
-    for f in (SRC / 'raiz').iterdir():
-        shutil.copy2(f, OUT / f.name)
     build_sitemaps()
     build_404()
     build_redirects(shortlinks)
