@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://motoperitaje.com/addl-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-11-06T00:00:00+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://motoperitaje.com/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-01-22T17:44:46+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://motoperitaje.com/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-07T19:35:49+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://motoperitaje.com/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-01-22T17:44:46+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

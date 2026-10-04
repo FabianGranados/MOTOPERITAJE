@@ -1,0 +1,35 @@
+/* RECONSTRUIDO (el original no venía en el paquete de migración): estilos de los botones de WhatsApp
+   (plugin "WhatsApp for WordPress" de NinjaTeam). El marcado lo genera /assets/js/sitio.js. */
+.nta_wa_button{display:block}
+.wa__button{display:flex;align-items:center;gap:0;box-sizing:border-box;max-width:100%;padding:8px 20px 8px 8px;margin:0 auto;text-decoration:none!important;color:#fff;font-family:Arial,Helvetica,sans-serif;line-height:1.3;transition:box-shadow .2s,transform .2s;box-shadow:0 4px 8px 1px rgba(32,32,37,.09)}
+.wa__button:hover{box-shadow:0 8px 16px rgba(32,32,37,.18);transform:translateY(-1px)}
+.wa__r_button{border-radius:50px}
+.wa__sq_button{border-radius:5px}
+.wa__cs_img{flex:0 0 48px;width:48px;height:48px;margin-right:12px;position:relative}
+.wa__cs_img_wrap{width:48px;height:48px;border-radius:50%;background-size:cover!important;background-position:center!important;border:2px solid rgba(255,255,255,.6);box-sizing:border-box}
+.wa__stt_online .wa__cs_img:after{content:"";position:absolute;right:1px;bottom:1px;width:11px;height:11px;border-radius:50%;background:#2db742;border:2px solid #fff}
+.wa__btn_txt{display:flex;flex-direction:column;text-align:left;min-width:0}
+.wa__cs_info{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:2px}
+.wa__cs_name{font-size:12px;opacity:.9;color:inherit}
+.wa__cs_status{font-size:9px;line-height:1;padding:3px 5px;border-radius:9px;background:rgba(255,255,255,.25);color:inherit}
+.wa__btn_title{font-size:15px;font-weight:700;color:inherit}
+/* Botón flotante */
+#wa .wa__widget{position:fixed;z-index:99999;bottom:30px;right:30px;font-family:Arial,Helvetica,sans-serif}
+#wa .wa__btn_popup{display:flex;align-items:center;cursor:pointer}
+#wa .wa__btn_popup_txt{background:#fff;color:#595b60;font-size:12px;line-height:16px;padding:7px 12px;border-radius:6px;box-shadow:0 4px 8px 1px rgba(32,32,37,.09);margin-right:12px;white-space:normal}
+#wa .wa__btn_popup_txt strong{font-weight:700;color:#2b2b2b}
+#wa .wa__btn_popup_icon{width:56px;height:56px;border-radius:50%;background:#2db742 url(/wp-content/plugins/whatsapp-for-wordpress/assets/img/whatsapp_logo.svg) center/32px no-repeat;box-shadow:0 6px 8px 2px rgba(0,0,0,.14);transition:transform .2s}
+#wa .wa__btn_popup:hover .wa__btn_popup_icon{transform:scale(1.06)}
+#wa .wa__popup_chat_box{position:absolute;right:0;bottom:76px;width:351px;max-width:calc(100vw - 40px);background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 10px 10px 4px rgba(0,0,0,.04),0 10px 30px rgba(0,0,0,.15);opacity:0;visibility:hidden;transform:translateY(20px);transition:all .3s}
+#wa .wa__popup_chat_box.wa__active{opacity:1;visibility:visible;transform:none}
+#wa .wa__popup_heading{position:relative;padding:15px 43px 17px 74px;color:#fff;background:#2db742}
+#wa .wa__popup_heading:before{content:"";position:absolute;left:15px;top:18px;width:42px;height:42px;background:url(/wp-content/plugins/whatsapp-for-wordpress/assets/img/whatsapp_logo.svg) center/contain no-repeat}
+#wa .wa__popup_title{font-size:18px;line-height:24px;margin-bottom:5px;font-weight:700}
+#wa .wa__popup_intro{font-size:12px;line-height:16px;opacity:.95}
+#wa .wa__popup_close{position:absolute;right:12px;top:12px;width:22px;height:22px;border:0;background:transparent;color:#fff;font-size:22px;line-height:22px;cursor:pointer;padding:0}
+#wa .wa__popup_content{padding:12px 20px 20px}
+#wa .wa__popup_notice{font-size:11px;color:#a5abb7;font-weight:500;margin:0 0 10px}
+#wa .wa__popup_content .wa__button{margin:0 0 10px;padding:12px;border-radius:5px;background:#f5f7f9;color:#4c4c4c;border-left:2px solid #2db742;box-shadow:none}
+#wa .wa__popup_content .wa__button:hover{box-shadow:0 2px 6px rgba(0,0,0,.12)}
+#wa .wa__popup_content .wa__cs_status{background:#2db742;color:#fff}
+@media (max-width:480px){#wa .wa__widget{right:15px;bottom:15px}#wa .wa__btn_popup_txt{display:none}}

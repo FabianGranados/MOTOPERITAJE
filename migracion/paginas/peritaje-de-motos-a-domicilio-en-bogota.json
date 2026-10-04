@@ -1,0 +1,1364 @@
+{
+  "url": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/",
+  "ruta": "/peritaje-de-motos-a-domicilio-en-bogota/",
+  "title": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura",
+  "meta_description": "Peritaje de moto a domicilio en Bogotá. Revisamos la moto antes de comprarla y te entregamos informe técnico completo. Agenda hoy mismo 301 9262267.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura",
+    "og:description": "Peritaje de moto a domicilio en Bogotá. Revisamos la moto antes de comprarla y te entregamos informe técnico completo. Agenda hoy mismo 301 9262267.",
+    "og:url": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2026-02-19T15:19:45+00:00",
+    "article:modified_time": "2026-05-07T15:50:44+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura",
+    "twitter:description": "Peritaje de moto a domicilio en Bogotá. Revisamos la moto antes de comprarla y te entregamos informe técnico completo. Agenda hoy mismo 301 9262267.",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://motoperitaje.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#listItem",
+                "name": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#listItem",
+              "position": 2,
+              "name": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#webpage",
+          "url": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/",
+          "name": "Peritaje de Motos a Domicilio en Bogotá | Compra Segura",
+          "description": "Peritaje de moto a domicilio en Bogotá. Revisamos la moto antes de comprarla y te entregamos informe técnico completo. Agenda hoy mismo 301 9262267.",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/peritaje-de-motos-a-domicilio-en-bogota/#breadcrumblist"
+          },
+          "datePublished": "2026-02-19T15:19:45+00:00",
+          "dateModified": "2026-05-07T15:50:44+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "wp-singular page-template page-template-elementor_canvas page page-id-3559 wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-3559",
+  "whatsapp": [
+    "https://wa.me/573022507384"
+  ],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "h1",
+      "texto": "¿VAS A COMPRAR UNA MOTO USADA? HAZ UN PERITAJE PROFESIONAL A DOMICILIO ANTES DE PAGAR.",
+      "seccion": "e3864ce"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "2cafd33"
+    },
+    {
+      "tipo": "boton",
+      "texto": "SOMOS TU ALIADO",
+      "href": "#",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "h2",
+      "texto": "PERITAJE DE MOTOS A DOMICILIO EN BOGOTÁ",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Compra tu moto usada con total seguridad sin salir de casa",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si vas a comprar una moto usada en Bogotá, nuestro servicio de peritaje a domicilio revisa la moto donde se encuentre: casa del vendedor, concesionario o parqueadero.",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Te entregamos un informe técnico completo para que tomes una decisión segura y evites fraudes o daños ocultos.",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-a-domicilio-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/peritaje-de-motos-a-domicilio-en-bogota.webp",
+      "alt": "peritaje de motos a domicilio en bogota",
+      "ancho": "700",
+      "alto": "500",
+      "seccion": "d917cdc"
+    },
+    {
+      "tipo": "h3",
+      "texto": "¿QUÉ ES UN PERITAJE DE MOTO A DOMICILIO?",
+      "seccion": "bb99033"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Revision-de-moto-para-compra-Moto-Peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Revision-de-moto-para-compra-Moto-Peritaje.webp",
+      "alt": "Revision de moto para compra - Moto Peritaje",
+      "ancho": "525",
+      "alto": "230",
+      "seccion": "bb99033"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Es una inspección técnica profesional que realizamos directamente en el lugar donde está la moto.",
+      "seccion": "bb99033"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Revisamos:",
+      "seccion": "bb99033"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Estado estructural",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Motor",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema eléctrico",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Frenos",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Suspensión",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Chasis",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Señales de accidente",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Fugas y reparaciones ocultas",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Documentación básica",
+      "seccion": "f7b70e4"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA URBAN (O - 149 cc)",
+      "href": null,
+      "seccion": "7a4ec86"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA STREET (150 - 290 cc)",
+      "href": null,
+      "seccion": "7a4ec86"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 167 000 SERVICIO A DOMICILIO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 254 000 SERVICIO A DOMICILIO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 203 000 SERVICIO A DOMICILIO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 292 000 SERVICIO A DOMICILIO",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "903670e"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA SPORT (291 - 499 cc)",
+      "href": null,
+      "seccion": "dd2d27d"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA PRO (500 - 988 cc)",
+      "href": null,
+      "seccion": "dd2d27d"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 239 000 SERVICIO A DOMICILIO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 339 000 SERVICIO A DOMICILIO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de escape",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 295 000 SERVICIO A DOMICILIO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 390 000 SERVICIO A DOMICILIO",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de escape",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "1684bb8"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Avaluo-de-motos-a-domicilio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Avaluo-de-motos-a-domicilio.webp",
+      "alt": "Avaluo de motos a domicilio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-motos-cerca-de-mi.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Peritaje-de-motos-cerca-de-mi.webp",
+      "alt": "Peritaje preventivo para motos",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-preventivo-para-motos.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Peritaje-preventivo-para-motos.webp",
+      "alt": "Peritaje preventivo para motos",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-motos-a-domicilio-Bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Peritaje-de-motos-a-domicilio-Bogota.webp",
+      "alt": "Peritaje de motos a domicilio Bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Escaneo-de-motos-a-domicilio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Escaneo-de-motos-a-domicilio.webp",
+      "alt": "Escaneo de motos a domicilio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-motos-a-domicilio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Peritaje-de-motos-a-domicilio.webp",
+      "alt": "Peritaje de motos a domicilio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "servicio-de-peritaje-de-motos-a-domicilio-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/servicio-de-peritaje-de-motos-a-domicilio-en-bogota.webp",
+      "alt": "servicio de peritaje de motos a domicilio en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Precio-peritaje-moto-a-domicilio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Precio-peritaje-moto-a-domicilio.webp",
+      "alt": "Precio peritaje moto a domicilio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Revision-de-motos-a-domicilio-para-compra.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Revision-de-motos-a-domicilio-para-compra.webp",
+      "alt": "Revision de motos a domicilio para compra",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Avaluo-de-motos-usado.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/02/Avaluo-de-motos-usado.webp",
+      "alt": "Avaluo de motos usado",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a6a673"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Solicita el peritaje de tu moto a domicilio hoy mismo",
+      "seccion": "4589132"
+    },
+    {
+      "tipo": "h4",
+      "texto": "¡Contamos con expertos que te ayudarán!",
+      "seccion": "4589132"
+    },
+    {
+      "tipo": "h2",
+      "texto": "302 1138434 | 302 2507384 | 301 9262267",
+      "seccion": "4589132"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Cotizar Peritaje de Moto a Domicilio",
+      "href": "https://wa.me/573022507384",
+      "seccion": "4589132"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PREGUNTAS FRECUENTES",
+      "seccion": "0f23c73"
+    },
+    {
+      "tipo": "h4",
+      "texto": "SOBRE EL SERVICIO DE PERITAJE",
+      "seccion": "e067bd0"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Qué incluye el peritaje de motos a domicilio en Motoperitaje?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Evaluación estructural, revisión de motor, chasis, suspensión, carenajes, luces, frenos, papeles legales y más.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Cuánto dura el peritaje de moto a domicilio?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El servicio tarda entre 45 a 1 Hora y 30 minutos, dependiendo del tipo de moto y el nivel de inspección solicitado.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje incluye prueba de manejo?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si las condiciones lo permiten y el propietario lo autoriza, se realiza una verificación funcional básica. Sin embargo, el enfoque principal es técnico y estructural.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Pueden hacer el peritaje en un concesionario o parqueadero?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Sí. Realizamos el servicio donde esté ubicada la moto, siempre que se pueda acceder a ella para hacer la revisión completa.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Sirve el peritaje para cualquier marca de moto?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Sí. Revisamos motos de todas las marcas y cilindrajes: Yamaha, Honda, Suzuki, Bajaj, KTM, AKT, Hero, TVS, entre otras.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Cuánto cuesta un peritaje de moto a domicilio?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El valor depende de la ubicación, el tipo de moto y el nivel de inspección. Puedes verificar la información de nuestros planes o comunicarte directamente con nuestra área comercial por WhatsApp (+57) 302 1138434 | (+57) 302 2507384.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿En qué zonas realizan el peritaje a domicilio?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Prestamos el servicio en Bogotá y alrededores. Puedes consultarnos disponibilidad por WhatsApp (+57) 302 1138434 | (+57) 302 2507384 para tu ubicación específica.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje garantiza que la moto no fallará en el futuro?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No. El peritaje evalúa el estado actual de la moto al momento de la inspección. No es una garantía mecánica, pero reduce significativamente el riesgo de una mala compra.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "h4",
+      "texto": "PRECIOS Y FORMAS DE PAGO",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Cuál es el costo del peritaje en el 2026?",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El precio varía según el tipo de motocicleta. Puedes solicitar una cotización rápida por WhatsApp.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Puedo pagar en efectivo o con tarjeta?",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Aceptamos pagos en efectivo, transferencia bancaria y medios digitales como Bre-B, Nequi o Daviplata.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Quién debe realizar el pago del peritaje?",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El pago del peritaje debe realizarlo la persona que solicita el servicio, es decir, quien agenda la cita con Moto Peritaje.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En la práctica puede ser:",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "El comprador, cuando quiere asegurarse de que el vehículo esté en buen estado antes de comprar.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "El vendedor, cuando desea respaldar la venta con un informe técnico confiable.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Una empresa, aseguradora o entidad financiera, si el peritaje hace parte de un proceso interno.",
+      "seccion": "fcb10f3"
+    },
+    {
+      "tipo": "h4",
+      "texto": "ATENCIÓN AL CLIENTE",
+      "seccion": "1561892"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Necesito agendar una cita?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No es necesario. Atendemos sin cita previa, pero puedes contactarnos para asegurar disponibilidad.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Dónde están ubicados?",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Actualmente, Granautos cuenta con tres sedes en la ciudad de Bogotá.▪️ Sede Principal: Carrera 50 #2-49 B. Jazmín.▪️ Sede Prado Veraniego: Calle 134 # 46-35.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Horarios de Atención",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Lunes a Viernes:",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Programa tu domicilio en los siguientes horarios: 9:00 a.m. | 11:00 a.m. | 2:00 p.m.",
+      "seccion": "b691efa"
+    },
+    {
+      "tipo": "h3",
+      "texto": "HORARIOS DE ATENCIÓN",
+      "seccion": "8d35cf5"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Programa tu domicilio en los siguientes horarios: 9:00 a.m. | 11:00 a.m. | 2:00 p.m.",
+      "seccion": "8d35cf5"
+    },
+    {
+      "tipo": "h4",
+      "texto": "ESTAMOS UBICADOS EN",
+      "seccion": "8d140de"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Carrera 50 #2-49. B. Jazmín",
+      "href": null,
+      "seccion": "8d140de"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Calle 134 # 46-35 - Prado Veraniego",
+      "href": null,
+      "seccion": "8d140de"
+    },
+    {
+      "tipo": "iframe",
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "seccion": "a59c0d0"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "4d45a5f"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "4d45a5f"
+    }
+  ]
+}

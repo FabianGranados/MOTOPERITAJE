@@ -1,0 +1,1308 @@
+{
+  "url": "https://motoperitaje.com/precio-peritaje-moto/",
+  "ruta": "/precio-peritaje-moto/",
+  "title": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional",
+  "meta_description": "Realiza tu peritaje de moto en Bogotá con expertos. Inspección precisa, avalúo confiable y asesoría profesional. ¡Agenda por WhatsApp 3022507384!",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/precio-peritaje-moto/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional",
+    "og:description": "Realiza tu peritaje de moto en Bogotá con expertos. Inspección precisa, avalúo confiable y asesoría profesional. ¡Agenda por WhatsApp 3022507384!",
+    "og:url": "https://motoperitaje.com/precio-peritaje-moto/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2021-12-24T17:49:07+00:00",
+    "article:modified_time": "2026-05-07T15:32:25+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional",
+    "twitter:description": "Realiza tu peritaje de moto en Bogotá con expertos. Inspección precisa, avalúo confiable y asesoría profesional. ¡Agenda por WhatsApp 3022507384!",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/precio-peritaje-moto/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://motoperitaje.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/precio-peritaje-moto/#listItem",
+                "name": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/precio-peritaje-moto/#listItem",
+              "position": 2,
+              "name": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/precio-peritaje-moto/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/precio-peritaje-moto/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/precio-peritaje-moto/#webpage",
+          "url": "https://motoperitaje.com/precio-peritaje-moto/",
+          "name": "Peritaje de Motos en Bogotá | Precios, Avalúo y Servicio Profesional",
+          "description": "Realiza tu peritaje de moto en Bogotá con expertos. Inspección precisa, avalúo confiable y asesoría profesional. ¡Agenda por WhatsApp 3022507384!",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/precio-peritaje-moto/#breadcrumblist"
+          },
+          "datePublished": "2021-12-24T17:49:07+00:00",
+          "dateModified": "2026-05-07T15:32:25+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "wp-singular page-template page-template-elementor_canvas page page-id-125 wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-125",
+  "whatsapp": [
+    "https://wa.me/573022507384"
+  ],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "h1",
+      "texto": "¿NECESITAS UN PERITAJE PROFESIONAL DE MOTOS EN BOGOTÁ ANTES DE COMPRAR UNA USADA?",
+      "seccion": "e6794f1"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "c27a722"
+    },
+    {
+      "tipo": "boton",
+      "texto": "SOMOS TU ALIADO",
+      "href": "#",
+      "seccion": "917e01c"
+    },
+    {
+      "tipo": "h2",
+      "texto": "PERITAJES PROFESIONALES.​",
+      "seccion": "917e01c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si vas a comprar una moto usada en Bogotá: Un peritaje te permite conocer el estado mecánico real, detectar golpes ocultos, fallas estructurales, alteraciones de chasis o motor, y confirmar que la moto no tenga problemas legales antes de entregar tu dinero.",
+      "seccion": "917e01c"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/peritaje-de-motos-en-bogota.webp",
+      "alt": "peritaje de motos en bogota",
+      "ancho": "525",
+      "alto": "380",
+      "seccion": "917e01c"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA URBAN (O - 149 cc)",
+      "href": null,
+      "seccion": "25254a4"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA STREET (150 - 290 cc)",
+      "href": null,
+      "seccion": "25254a4"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 127 000 SERVICIO EN SALA",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 214 000 SERVICIO EN SALA",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 163 000 SERVICIO EN SALA",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 252 000 SERVICIO EN SALA",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "cfeea31"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA SPORT (291 - 499 cc)",
+      "href": null,
+      "seccion": "a3b8e6d"
+    },
+    {
+      "tipo": "boton",
+      "texto": "CATEGORÍA PRO (500 - 988 cc)",
+      "href": null,
+      "seccion": "a3b8e6d"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 199 000 SERVICIO EN SALA",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 299 000 SERVICIO EN SALA",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de escape",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE ESENCIAL",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 255 000 SERVICIO EN SALA",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de compresión (nivel 1)",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PERITAJE AVANZADO",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 350 000 SERVICIO EN SALA",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión estructural",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de carenajes y pintura",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de comparendos y multas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de embargos y siniestros",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspección de suspensión",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de motor",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de escape",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de frenos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de cadena, rines y llantas",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de sistemas de identificación",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Histórico de propietarios",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verificación de pendientes del propietario",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Informe detallado del estado real de la moto",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo del servicio: 40 a 60 minutos",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Inspección ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "f188009"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Solicita el peritaje de tu moto",
+      "seccion": "d1cf31c"
+    },
+    {
+      "tipo": "h4",
+      "texto": "¡Contamos con expertos que te ayudarán!",
+      "seccion": "d1cf31c"
+    },
+    {
+      "tipo": "h2",
+      "texto": "302 1138434 | 302 2507384 | 301 9262267",
+      "seccion": "d1cf31c"
+    },
+    {
+      "tipo": "boton",
+      "texto": "¡Agenda tu servicio ahora!",
+      "href": "https://wa.me/573022507384",
+      "seccion": "d1cf31c"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Motoperitaje.com_.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Motoperitaje.com_.webp",
+      "alt": "Motoperitaje.com",
+      "ancho": "300",
+      "alto": "107",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "h3",
+      "texto": "¿QUE INCLUYE?",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión de documentos",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Scanner para motos",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Compresión nivel 1",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de gases",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistemas de identificación",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Estudio técnico",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Chasis y estructuras",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Prueba de motor",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Antecedentes de siniestros",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Embargos y comparendos",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/peritaje-de-motos-en-bogota.webp",
+      "alt": "peritaje de motos en bogota",
+      "ancho": "525",
+      "alto": "380",
+      "seccion": "60e9918"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Comunícate con nuestro soporte en vivo",
+      "href": "https://wa.me/573022507384",
+      "seccion": "9a834f6"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "compresion-de-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/compresion-de-motos-bogota.webp",
+      "alt": "compresion de motos bogota",
+      "ancho": "525",
+      "alto": "338",
+      "seccion": "c5191e9"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "compresion-para-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/compresion-para-motos-bogota.webp",
+      "alt": "compresion para motos bogota",
+      "ancho": "525",
+      "alto": "338",
+      "seccion": "c5191e9"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "compresion-de-motos-bogota-motoperitaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/compresion-de-motos-bogota-motoperitaje.webp",
+      "alt": "compresion de motos bogota - motoperitaje",
+      "ancho": "525",
+      "alto": "338",
+      "seccion": "c5191e9"
+    },
+    {
+      "tipo": "h3",
+      "texto": "¿CÓMO EVALUAMOS LA COMPRESIÓN DEL MOTOR DE TU MOTO?",
+      "seccion": "cc297e5"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Realizamos pruebas de compresión en niveles 1, 2 y 3 para conocer la salud del motor y evitar reparaciones costosas.",
+      "seccion": "cc297e5"
+    },
+    {
+      "tipo": "h3",
+      "texto": "COMPRESIÓN NIVEL 1",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "SERVICIO EN SALA",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Desarme básico.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Retiro de piezas que obstruyan para acceso a bujías o partes eléctricas. (Acceso fácil)",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Toma de compresión relativa.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo de servicio: 1 Hora y Media.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Compresión nivel 1 ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "h3",
+      "texto": "COMPRESIÓN NIVEL 2",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 85 000 SERVICIO EN SALA",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Desarme medio.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Retiro de piezas que obstruyan para acceso a bujías o partes eléctricas.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Toma de compresión (Excepto desmonte de tanques de combustible).",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Compresión máxima a dos cilindros.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo de servicio: 2 Horas y Media.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Compresión nivel 2 ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "h3",
+      "texto": "COMPRESIÓN NIVEL 3",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-price-table__price",
+      "texto": "$ 170 000 SERVICIO EN SALA",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Desarme complejo.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Retiro de tanques de combustible para la toma directa de los cilindros.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Retiro de piezas que obstruyan para acceso a bujías o partes eléctricas.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Compresión especial para súper bikes y motos tetra cilíndricas.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tiempo de servicio: 3 Horas y Media.",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Agendar Compresión nivel 3 ⬆︎",
+      "href": "https://wa.me/573022507384",
+      "seccion": "b10c0cb"
+    },
+    {
+      "tipo": "h3",
+      "texto": "SÍGUENOS EN INSTAGRAM",
+      "seccion": "a085dbd"
+    },
+    {
+      "tipo": "h4",
+      "texto": "@motoperitaje",
+      "seccion": "a085dbd"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-norte-de-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-norte-de-bogota.webp",
+      "alt": "peritaje norte de bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-moto-usada-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-moto-usada-bogota.webp",
+      "alt": "peritaje moto usada bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-en-el-norte-de-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-en-el-norte-de-bogota.webp",
+      "alt": "peritaje en el norte de bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "agenda-el-peritaje-de-tu-moto-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/agenda-el-peritaje-de-tu-moto-en-bogota.webp",
+      "alt": "agenda el peritaje de tu moto en bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritajes-de-motos-bogota-norte-moto-peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritajes-de-motos-bogota-norte-moto-peritaje.webp",
+      "alt": "peritajes de motos bogota norte - moto peritaje",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-para-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-para-motos-bogota.webp",
+      "alt": "peritaje para motos bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Keywords: cuanto vale un peritaje de una moto, cuanto cuesta un peritaje de moto, peritaje motos bogotá, peritaje motos precio, peritaje de moto precio, precio peritaje moto, peritaje para motos, servicio de peritaje de motos bogota norte, peritaje para motos bogota, peritaje motos precios, valor peritaje motos, peritaje motos Bogotá, granautos peritaje, peritajes en bogotá, peritaje a domicilio bogotá.",
+      "seccion": "4933d62"
+    },
+    {
+      "tipo": "h3",
+      "texto": "HORARIOS DE ATENCIÓN",
+      "seccion": "5b01215"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Lunes a Viernes: 8:00 a.m. a 4:00 p.m.Sábados: 8:00 a.m. a 1:00 p.m.",
+      "seccion": "5b01215"
+    },
+    {
+      "tipo": "h4",
+      "texto": "ESTAMOS UBICADOS EN",
+      "seccion": "d887724"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Carrera 50 #2-49. B. Jazmín",
+      "href": null,
+      "seccion": "d887724"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Calle 134 # 46-35 - Prado Veraniego",
+      "href": null,
+      "seccion": "d887724"
+    },
+    {
+      "tipo": "iframe",
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "seccion": "6066bd2"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "5269ce0"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "5269ce0"
+    }
+  ]
+}

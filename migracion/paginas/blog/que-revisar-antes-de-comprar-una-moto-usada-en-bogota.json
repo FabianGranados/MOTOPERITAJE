@@ -1,0 +1,697 @@
+{
+  "url": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+  "ruta": "/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+  "title": "Qué revisar antes de comprar una moto usada en Bogotá",
+  "meta_description": "Guía para comprar moto usada en Bogotá: revisa documentos, mecánica, historial y señales de alerta. Aprende a elegir una moto segura y sin riesgos.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Qué revisar antes de comprar una moto usada en Bogotá",
+    "og:description": "Guía para comprar moto usada en Bogotá: revisa documentos, mecánica, historial y señales de alerta. Aprende a elegir una moto segura y sin riesgos.",
+    "og:url": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2025-11-27T17:26:44+00:00",
+    "article:modified_time": "2026-01-22T17:34:00+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Qué revisar antes de comprar una moto usada en Bogotá",
+    "twitter:description": "Guía para comprar moto usada en Bogotá: revisa documentos, mecánica, historial y señales de alerta. Aprende a elegir una moto segura y sin riesgos.",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#blogposting",
+          "name": "Qué revisar antes de comprar una moto usada en Bogotá",
+          "headline": "Qué revisar antes de comprar una moto usada en Bogotá",
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2025/01/peritaje-de-motos-moto-peritaje.webp",
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#articleImage",
+            "width": 1200,
+            "height": 1200,
+            "caption": "peritaje de motos - moto peritaje"
+          },
+          "datePublished": "2025-11-27T17:26:44+00:00",
+          "dateModified": "2026-01-22T17:34:00+00:00",
+          "inLanguage": "es-ES",
+          "mainEntityOfPage": {
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#webpage"
+          },
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#webpage"
+          },
+          "articleSection": "Uncategorized"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://motoperitaje.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+              "position": 2,
+              "name": "Uncategorized",
+              "item": "https://motoperitaje.com/category/uncategorized/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#listItem",
+                "name": "Qué revisar antes de comprar una moto usada en Bogotá"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#listItem",
+              "position": 3,
+              "name": "Qué revisar antes de comprar una moto usada en Bogotá",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#organizationLogo"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://motoperitaje.com/author/admin/#author",
+          "url": "https://motoperitaje.com/author/admin/",
+          "name": "admin",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#authorImage",
+            "url": "https://secure.gravatar.com/avatar/7254071fca2e6fce54eefc61f5b4958b8c3021dba9a37b1598636a1288e6b539?s=96&d=mm&r=g",
+            "width": 96,
+            "height": 96,
+            "caption": "admin"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#webpage",
+          "url": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+          "name": "Qué revisar antes de comprar una moto usada en Bogotá",
+          "description": "Guía para comprar moto usada en Bogotá: revisa documentos, mecánica, historial y señales de alerta. Aprende a elegir una moto segura y sin riesgos.",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/#breadcrumblist"
+          },
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "creator": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "datePublished": "2025-11-27T17:26:44+00:00",
+          "dateModified": "2026-01-22T17:34:00+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "wp-singular post-template post-template-elementor_canvas single single-post postid-3348 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image has-sidebar elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-3348",
+  "whatsapp": [],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "c3cf8bf"
+    },
+    {
+      "tipo": "h1",
+      "texto": "QUÉ REVISAR ANTES DE COMPRAR UNA MOTO USADA EN BOGOTÁ",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Comprar una moto de segunda en Bogotá puede ser una excelente decisión si sabes qué revisar. El mercado es grande, los precios son variados y puedes encontrar muy buenas opciones. Pero también hay riesgos: motos con documentos irregulares, motores desgastados, fraudes o gastos ocultos que aparecen después.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Esta guía te explica qué revisar paso a paso, qué documentos deben estar al día, cómo evaluar estado mecánico y cómo hacer una compra segura.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "1. Revisión de documentos: lo primero (y más importante)",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Antes de ver la moto físicamente, revisa todos los papeles. En Colombia esto es obligatorio si no quieres problemas legales o gastos inesperados.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Documentos que deben estar al día",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "SOAT vigente.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisión Tecnomecánica (si la moto tiene más de 5 años).",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tarjeta de propiedad sin inconsistencias.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Impuestos al día (puedes verificar con el número de placa).",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de Identificación:Verifica que el número de motor, chasis y VIN coincidan exactamente con la tarjeta de propiedad.Asegúrate de que no presenten alteraciones, borrones, remarcaciones o signos de manipulación.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Verificaciones obligatorias",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Comparendos: revisa si la moto tiene multas pendientes.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Embargos o prenda bancaria: no compres sin verificar esto.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Número de motor y chasis: deben coincidir con la tarjeta de propiedad.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "2. Estado mecánico general: lo que delata una moto mal cuidada",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Aquí es donde se descubren la mayoría de problemas costosos. Revisa:",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Motor",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Arranque en frío: no debe hacer ruidos metálicos.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Humo del escape:Azul = quema aceite.Blanco denso = problemas de mezcla/compresión.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Fugas visibles de aceite.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Caja y transmisión",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Cambios suaves.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "No debe haber rebotes o dificultad para encontrar neutro.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisa cadena, piñones y tensión.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Suspensión",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Barras delanteras sin fugas.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Amortiguador trasero sin rebote excesivo.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Frenos",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Pastillas con vida útil.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Frenado recto sin vibraciones.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "3. Kilometraje real y desgaste visible",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El kilometraje puede ser alterado. Por eso revisa si coincide con el desgaste natural:",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Signos de que el kilometraje es real",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Puños y maniguetas con desgaste acorde.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Estriberas sin señales de lijado.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Botones del tablero en buen estado.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tornillería original.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si todo se ve “demasiado nuevo” para el kilometraje, sospecha. ( Esto aplica tambien en casos contrarios, km bajo y desgastes excesivos.)",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "4. Estructura, chasis y señales de accidentes",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un golpe fuerte cambia el comportamiento de la moto y su seguridad.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Revisa cuidadosamente",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Chasis recto (míralo desde atrás, no debe verse torcido).",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Soportes sin soldaduras nuevas.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tanque sin golpes ocultos.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Horquilla simétrica.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Señales de accidente",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Piezas nuevas solo en un lado.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Plásticos repintados.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Manubrio levemente torcido.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Soportes de direccionales o carenajes cambiados.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "5. Prueba de ruta: el paso que nunca debes omitir",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La prueba debe durar al menos 5–10 minutos.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Qué evaluar durante la prueba",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Aceleración estable.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Vibraciones anormales.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Respuesta de frenos.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Comportamiento en giros.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ruido del motor al llegar a temperatura.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Sensación general",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si te cuesta controlar la moto o no se siente estable, evita la compra.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "6. Historial de mantenimiento: una moto cuidada siempre lo demuestra",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Solicita:",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Facturas de talleres.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Cambios de aceite registrados.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Reemplazo de llantas, pastillas y kit de arrastre.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Una moto sin historial no significa que esté mal, pero sí aumenta el riesgo.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "7. Verificación legal adicional (Bogotá y Colombia)",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para mayor tranquilidad, puedes revisar:",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "SIJIN / DIJIN: verifican antecedentes y si la moto tiene reporte de hurto.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "RUNT: estado legal general.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Secretaría de Movilidad Bogotá: impuestos y comparendos.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistema de IdentificaciónConfirma que motor, chasis y VIN coincidan con el RUNT y la tarjeta de propiedad.Verifica que no tengan alteraciones o remarcaciones.",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Comentarios",
+      "seccion": "695e1c8"
+    },
+    {
+      "tipo": "formulario",
+      "accion": "/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+      "clase": "wpforms-validate wpforms-form wpforms-ajax-form",
+      "campos": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "wpforms[fields][0]",
+          "label": "Nombre *",
+          "requerido": true
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "name": "wpforms[fields][2]",
+          "label": "Mensaje *",
+          "requerido": true
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "wpforms[submit]",
+          "label": "Enviar"
+        }
+      ],
+      "seccion": "695e1c8"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-moto-peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/01/peritaje-de-motos-moto-peritaje.webp",
+      "alt": "peritaje de motos - moto peritaje",
+      "ancho": "525",
+      "alto": "525",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "h4",
+      "texto": "SERVICIOS RELACIONADOS",
+      "seccion": "4b13b3a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos en bogotá.",
+      "seccion": "753474c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/sala",
+      "seccion": "753474c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos a domicilio.",
+      "seccion": "c0cf2dd"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/domicilio",
+      "seccion": "c0cf2dd"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "edb1a03"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "edb1a03"
+    }
+  ]
+}

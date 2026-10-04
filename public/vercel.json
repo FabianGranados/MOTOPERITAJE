@@ -1,0 +1,553 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/index.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/feed/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/comments/feed/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/:slug/feed/:path*",
+      "destination": "/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-admin/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/wp-login.php",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "30"
+        }
+      ],
+      "destination": "/contactanos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "30"
+        }
+      ],
+      "destination": "/contactanos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "125"
+        }
+      ],
+      "destination": "/precio-peritaje-moto/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "125"
+        }
+      ],
+      "destination": "/precio-peritaje-moto/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "960"
+        }
+      ],
+      "destination": "/todo-lo-que-necesitas-saber-sobre-el-peritaje-de-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "960"
+        }
+      ],
+      "destination": "/todo-lo-que-necesitas-saber-sobre-el-peritaje-de-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1108"
+        }
+      ],
+      "destination": "/como-el-peritaje-revela-su-verdadero-precio-en-el-mercado-de-las-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1108"
+        }
+      ],
+      "destination": "/como-el-peritaje-revela-su-verdadero-precio-en-el-mercado-de-las-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1154"
+        }
+      ],
+      "destination": "/importancia-del-peritaje-de-motos-en-casos-de-accidentes/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1154"
+        }
+      ],
+      "destination": "/importancia-del-peritaje-de-motos-en-casos-de-accidentes/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1187"
+        }
+      ],
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1187"
+        }
+      ],
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1221"
+        }
+      ],
+      "destination": "/que-tipo-de-informacion-se-recopila-durante-un-peritaje-de-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1221"
+        }
+      ],
+      "destination": "/que-tipo-de-informacion-se-recopila-durante-un-peritaje-de-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1280"
+        }
+      ],
+      "destination": "/que-documentacion-necesito-para-realizar-un-peritaje-de-motos-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1280"
+        }
+      ],
+      "destination": "/que-documentacion-necesito-para-realizar-un-peritaje-de-motos-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1367"
+        }
+      ],
+      "destination": "/politica-de-tratamiento-de-datos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1367"
+        }
+      ],
+      "destination": "/politica-de-tratamiento-de-datos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1438"
+        }
+      ],
+      "destination": "/como-preparar-tu-moto-para-un-viaje-seguro-consejos-esenciales/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1438"
+        }
+      ],
+      "destination": "/como-preparar-tu-moto-para-un-viaje-seguro-consejos-esenciales/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1500"
+        }
+      ],
+      "destination": "/iluminando-el-camino-luces-led-para-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1500"
+        }
+      ],
+      "destination": "/iluminando-el-camino-luces-led-para-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1540"
+        }
+      ],
+      "destination": "/las-marcas-de-motos-mas-populares/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1540"
+        }
+      ],
+      "destination": "/las-marcas-de-motos-mas-populares/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1688"
+        }
+      ],
+      "destination": "/historia-de-las-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1688"
+        }
+      ],
+      "destination": "/historia-de-las-motos/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1724"
+        }
+      ],
+      "destination": "/importancia-del-equipo-de-proteccion-para-motociclistas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1724"
+        }
+      ],
+      "destination": "/importancia-del-equipo-de-proteccion-para-motociclistas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "1805"
+        }
+      ],
+      "destination": "/mejores-accesorios-para-motociclistas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "1805"
+        }
+      ],
+      "destination": "/mejores-accesorios-para-motociclistas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "2395"
+        }
+      ],
+      "destination": "/agendar-en-linea/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "2395"
+        }
+      ],
+      "destination": "/agendar-en-linea/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "3032"
+        }
+      ],
+      "destination": "/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "3032"
+        }
+      ],
+      "destination": "/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "3348"
+        }
+      ],
+      "destination": "/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "3348"
+        }
+      ],
+      "destination": "/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "3559"
+        }
+      ],
+      "destination": "/peritaje-de-motos-a-domicilio-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "3559"
+        }
+      ],
+      "destination": "/peritaje-de-motos-a-domicilio-en-bogota/",
+      "permanent": true
+    },
+    {
+      "source": "/category/uncategorized/page/:n/",
+      "destination": "/category/uncategorized/",
+      "permanent": false
+    },
+    {
+      "source": "/author/:name/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/author/:name/page/:n/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/:year(\\d{4})/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/:year(\\d{4})/:month(\\d{2})/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/blog/page/:n/",
+      "destination": "/blog/",
+      "permanent": false
+    }
+  ],
+  "headers": [
+    {
+      "source": "/wp-content/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    }
+  ]
+}

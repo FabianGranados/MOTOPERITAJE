@@ -1,0 +1,557 @@
+{
+  "url": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+  "ruta": "/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+  "title": "Guía de Mantenimiento Preventivo para Motos Usadas | Moto Peritaje",
+  "meta_description": "Aprende el mantenimiento preventivo para motos usadas: checklist, consejos y cuidados para alargar la vida de tu moto y ahorrar en reparaciones.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Guía de Mantenimiento Preventivo para Motos Usadas | Moto Peritaje",
+    "og:description": "Aprende el mantenimiento preventivo para motos usadas: checklist, consejos y cuidados para alargar la vida de tu moto y ahorrar en reparaciones.",
+    "og:url": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2025-10-02T20:01:25+00:00",
+    "article:modified_time": "2026-01-22T17:34:11+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Guía de Mantenimiento Preventivo para Motos Usadas | Moto Peritaje",
+    "twitter:description": "Aprende el mantenimiento preventivo para motos usadas: checklist, consejos y cuidados para alargar la vida de tu moto y ahorrar en reparaciones.",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#blogposting",
+          "name": "Guía de Mantenimiento Preventivo para Motos Usadas | Moto Peritaje",
+          "headline": "Guía de Mantenimiento Preventivo para Motos Usadas",
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2025/01/peritaje-de-motos-moto-peritaje.webp",
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#articleImage",
+            "width": 1200,
+            "height": 1200,
+            "caption": "peritaje de motos - moto peritaje"
+          },
+          "datePublished": "2025-10-02T20:01:25+00:00",
+          "dateModified": "2026-01-22T17:34:11+00:00",
+          "inLanguage": "es-ES",
+          "mainEntityOfPage": {
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#webpage"
+          },
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#webpage"
+          },
+          "articleSection": "Uncategorized"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://motoperitaje.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+              "position": 2,
+              "name": "Uncategorized",
+              "item": "https://motoperitaje.com/category/uncategorized/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#listItem",
+                "name": "Guía de Mantenimiento Preventivo para Motos Usadas"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#listItem",
+              "position": 3,
+              "name": "Guía de Mantenimiento Preventivo para Motos Usadas",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#organizationLogo"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://motoperitaje.com/author/admin/#author",
+          "url": "https://motoperitaje.com/author/admin/",
+          "name": "admin",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#authorImage",
+            "url": "https://secure.gravatar.com/avatar/7254071fca2e6fce54eefc61f5b4958b8c3021dba9a37b1598636a1288e6b539?s=96&d=mm&r=g",
+            "width": 96,
+            "height": 96,
+            "caption": "admin"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#webpage",
+          "url": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+          "name": "Guía de Mantenimiento Preventivo para Motos Usadas | Moto Peritaje",
+          "description": "Aprende el mantenimiento preventivo para motos usadas: checklist, consejos y cuidados para alargar la vida de tu moto y ahorrar en reparaciones.",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/guia-de-mantenimiento-preventivo-para-motos-usadas/#breadcrumblist"
+          },
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "creator": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "datePublished": "2025-10-02T20:01:25+00:00",
+          "dateModified": "2026-01-22T17:34:11+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "wp-singular post-template post-template-elementor_canvas single single-post postid-3032 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image has-sidebar elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-3032",
+  "whatsapp": [],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "59e80f2"
+    },
+    {
+      "tipo": "h1",
+      "texto": "GUÍA DE MANTENIMIENTO PREVENTIVO PARA MOTOS USADAS: AUMENTA LA VIDA ÚTIL DE TU MOTO.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Comprar una moto usada es una excelente alternativa para quienes buscan movilidad práctica sin gastar tanto como en una moto nueva. Sin embargo, cuando adquieres una moto de segunda mano, heredas también el uso y desgaste de su anterior propietario.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Por eso, realizar un mantenimiento preventivo constante es fundamental para garantizar que la moto funcione de manera segura, eficiente y con una vida útil más larga.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En esta guía aprenderás:",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Qué revisar periódicamente en tu moto usada.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Cada cuánto tiempo hacer las revisiones.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Consejos prácticos para ahorrar dinero en reparaciones.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Cómo detectar señales de alerta antes de que se conviertan en problemas graves.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¿QUÉ ES EL MANTENIMIENTO PREVENTIVO EN UNA MOTO USADA?",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El mantenimiento preventivo es un conjunto de acciones periódicas que se realizan para evitar fallas mecánicas, garantizar la seguridad y alargar la vida del vehículo.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No se trata de esperar a que la moto falle, sino de anticiparse a los problemas con revisiones simples pero efectivas.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Por qué es importante el mantenimiento preventivo en motos usadas?",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Aumenta la seguridad: evita fallas inesperadas en carretera.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Reduce costos: prevenir es más barato que reparar averías graves.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Mayor durabilidad: extiende la vida útil del motor y componentes.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Mejor rendimiento: asegura un consumo de combustible más eficiente.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Consejo: un calendario de revisiones te ayuda a no olvidar los mantenimientos clave.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "h2",
+      "texto": "CHECKLIST DE MANTENIMIENTO PREVENTIVO PARA MOTOS USADAS",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "1. Revisión del aceite y filtro",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Cambia el aceite cada 3.000 a 5.000 km según el tipo de moto.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sustituye el filtro junto con el aceite.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Usa siempre lubricantes recomendados por el fabricante.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "2. Sistema de frenos",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Verifica el nivel y estado del líquido de frenos.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisa pastillas y discos de freno para evitar desgastes peligrosos.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ajusta los frenos si notas pérdida de eficacia.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "3. Llantas y presión",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inspecciona la profundidad del dibujo y posibles grietas.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Mantén la presión de aire adecuada para mayor seguridad y ahorro de combustible.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "4. Batería y sistema eléctrico",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Revisa que los bornes estén limpios y sin sulfatación.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Asegúrate de que todas las luces funcionen correctamente.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Considera reemplazar la batería si tiene más de 2-3 años.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "5. Cadena y transmisión",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Lubrica la cadena cada 500 km o después de conducir bajo lluvia.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ajusta la tensión para evitar ruidos y desgaste prematuro.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "6. Suspensión y amortiguadores",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Comprueba fugas de aceite en amortiguadores.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ajusta la suspensión según tu peso y estilo de conducción.",
+      "seccion": "d9f470f"
+    },
+    {
+      "tipo": "h2",
+      "texto": "CONSEJOS ADICIONALES PARA MOTOS USADAS",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Respeta el manual del fabricante: cada modelo tiene sus propios intervalos de mantenimiento.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Guarda la moto bajo techo: protege de la lluvia y del sol para evitar corrosión.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Lava tu moto con regularidad: evita el uso de mangueras a presión en motor y partes eléctricas.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Arranca la moto cada semana si no la usas: así evitas que la batería se descargue.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Lleva un registro de mantenimientos: anota cada cambio y revisión, esto te servirá en el futuro.",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Comentarios",
+      "seccion": "ac62636"
+    },
+    {
+      "tipo": "formulario",
+      "accion": "/guia-de-mantenimiento-preventivo-para-motos-usadas/",
+      "clase": "wpforms-validate wpforms-form wpforms-ajax-form",
+      "campos": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "wpforms[fields][0]",
+          "label": "Nombre *",
+          "requerido": true
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "name": "wpforms[fields][2]",
+          "label": "Mensaje *",
+          "requerido": true
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "wpforms[submit]",
+          "label": "Enviar"
+        }
+      ],
+      "seccion": "ac62636"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-moto-peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/01/peritaje-de-motos-moto-peritaje.webp",
+      "alt": "peritaje de motos - moto peritaje",
+      "ancho": "525",
+      "alto": "525",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "h3",
+      "texto": "SERVICIOS RELACIONADOS",
+      "seccion": "3221726"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos en bogotá.",
+      "seccion": "1ff41ec"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/sala",
+      "seccion": "1ff41ec"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos a domicilio.",
+      "seccion": "3084bf0"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/domicilio",
+      "seccion": "3084bf0"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "02d881e"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "02d881e"
+    }
+  ]
+}

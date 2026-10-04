@@ -1,0 +1,1067 @@
+{
+  "url": "https://motoperitaje.com/",
+  "ruta": "/",
+  "title": "Peritaje de Motos en Bogotá - Avalúo Profesional y Preciso",
+  "meta_description": "Peritaje y avalúo de motos en Bogotá con tecnología avanzada: escáneres, analizador de gases y más. ¡Agenda tu cita ahora! 3022507384",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Peritaje de Motos en Bogotá - Avalúo Profesional y Preciso",
+    "og:description": "Peritaje y avalúo de motos en Bogotá con tecnología avanzada: escáneres, analizador de gases y más. ¡Agenda tu cita ahora! 3022507384",
+    "og:url": "https://motoperitaje.com/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2021-12-06T18:06:36+00:00",
+    "article:modified_time": "2026-05-07T16:39:01+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Peritaje de Motos en Bogotá - Avalúo Profesional y Preciso",
+    "twitter:description": "Peritaje y avalúo de motos en Bogotá con tecnología avanzada: escáneres, analizador de gases y más. ¡Agenda tu cita ahora! 3022507384",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/#webpage",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos en Bogotá - Avalúo Profesional y Preciso",
+          "description": "Peritaje y avalúo de motos en Bogotá con tecnología avanzada: escáneres, analizador de gases y más. ¡Agenda tu cita ahora! 3022507384",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/#breadcrumblist"
+          },
+          "datePublished": "2021-12-06T18:06:36+00:00",
+          "dateModified": "2026-05-07T16:39:01+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "home wp-singular page-template page-template-elementor_canvas page page-id-21 wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-21",
+  "whatsapp": [
+    "https://wa.me/573022507384"
+  ],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "h1",
+      "texto": "Peritaje de Motos en Bogotá | Inspección Profesional y Avalúo",
+      "seccion": "f44be8f"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "7876d73"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Motoperitaje.com_-qoz5boucc6m91teaoa9rphycxub9yfr9sxccjo6lfo.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/elementor/thumbs/Motoperitaje.com_-qoz5boucc6m91teaoa9rphycxub9yfr9sxccjo6lfo.webp",
+      "alt": "Motoperitaje.com",
+      "ancho": null,
+      "alto": null,
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "boton",
+      "texto": "SOMOS TU ALIADO",
+      "href": null,
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "h1",
+      "texto": "PERITAJES PROFESIONALES",
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Sabemos la importancia de tu inversión, por eso en nosotros encontrarás la mejor asesoría en la compra y venta de tu nueva moto.",
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Conoce los precios aquí",
+      "href": "https://motoperitaje.com/precio-peritaje-moto/",
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/peritaje-de-motos-en-bogota.webp",
+      "alt": "peritaje de motos en bogota",
+      "ancho": "525",
+      "alto": "380",
+      "seccion": "3491e54"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¿QUÉ ES EL PERITAJE DE UNA MOTO?",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un peritaje es la revisión y puesta en marcha de los elementos, eléctricos, mecánicos y estructurales que componen una motocicleta, así como su documentación, con el fin de poder evidenciar cualquier tipo de problema a la hora de comprarla.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-en-bogota-motoperitaje-qondwr78l8payi8mar9yhvmuh1s4j7or5exccj7t2o.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/elementor/thumbs/peritaje-de-motos-en-bogota-motoperitaje-qondwr78l8payi8mar9yhvmuh1s4j7or5exccj7t2o.webp",
+      "alt": "peritaje de motos en bogota motoperitaje",
+      "ancho": null,
+      "alto": null,
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¿QUÉ REVISAMOS EN EL PERITAJE DE UNA MOTO?",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Sistemas eléctricos",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las motos modernas al igual que los carros, tienen sistemas eléctricos más profundos con computadores a bordo y conexiones a sistemas de ayudas y tipos de manejo como el ABS, es por eso que se debe tener en cuenta al máximo.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Motor y suspensión",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un motor en perfecto estado debe estar sin fugas de aceite o refrigerantes, sin cambios o daños en su estructura, la suspensión en una moto es de alto interés, en especial las horquillas y sus componentes, ya que son ellas quienes se encargan de dar la fiabilidad en curvas y frenadas.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Documentos",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Una documentación al día nos permite tener la tranquilidad de realizar cualquier tipo de trámite ante las autoridades de tránsito, según sea el caso, comparendos, embargos o prendas podrían cambiar radicalmente el curso de una negociación.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Chasis y estructura",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El Chasis de una moto se divide en diferentes partes, depende de qué tipo de moto sea, si es Naked, Superbike o Scooter.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Sistemas de identificación",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Los sistemas de identificación y su cotejo con nuestras bases de datos nos permiten estar seguros de su originalidad y consistencia.",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-vehiculos-en-bogota-granautos.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/07/peritaje-de-vehiculos-en-bogota-granautos.webp",
+      "alt": "peritaje de vehiculos en bogota - granautos",
+      "ancho": "525",
+      "alto": "525",
+      "enlace": "https://granautos.com.co/",
+      "seccion": "9a3c163"
+    },
+    {
+      "tipo": "h3",
+      "texto": "LO QUE DICEN NUESTROS CLIENTES",
+      "seccion": "64f2167"
+    },
+    {
+      "tipo": "h4",
+      "texto": "Clientes satisfechos han confiado en nosotros para su peritaje de vehículos.",
+      "seccion": "64f2167"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-moto-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-moto-bogota.webp",
+      "alt": "peritaje moto bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-de-motos.webp",
+      "alt": "peritaje de motos",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-motos-bogota.webp",
+      "alt": "peritaje motos bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-moto-usada.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-moto-usada.webp",
+      "alt": "peritaje moto usada",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-de-motos-bogota.webp",
+      "alt": "peritaje de motos bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-para-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/Peritaje-para-motos-bogota.webp",
+      "alt": "Peritaje para motos bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-moto-usada-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-moto-usada-bogota.webp",
+      "alt": "peritaje moto usada bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "cuanto-vale-un-peritaje-de-una-moto.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/cuanto-vale-un-peritaje-de-una-moto.webp",
+      "alt": "cuanto vale un peritaje de una moto",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-motos-bogota-precio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/Peritaje-de-motos-bogota-precio.webp",
+      "alt": "Peritaje de motos bogota precio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "cuanto-cuesta-un-peritaje-de-moto.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/cuanto-cuesta-un-peritaje-de-moto.webp",
+      "alt": "cuanto cuesta un peritaje de moto",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-moto-peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-de-motos-moto-peritaje.webp",
+      "alt": "peritaje de motos moto peritaje",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritajes-para-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/Peritajes-para-motos-en-bogota.webp",
+      "alt": "Peritajes para motos en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-motoperitaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2026/05/peritaje-de-motos-motoperitaje.webp",
+      "alt": "peritaje de motos motoperitaje",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cec9b63"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Solicita el peritaje de tu moto",
+      "seccion": "786abc1"
+    },
+    {
+      "tipo": "h5",
+      "texto": "¡Contamos con expertos que te ayudarán!",
+      "seccion": "786abc1"
+    },
+    {
+      "tipo": "h2",
+      "texto": "302 2507384 | 302 1138434 | 301 9262267",
+      "seccion": "786abc1"
+    },
+    {
+      "tipo": "boton",
+      "texto": "¡Agenda tu servicio ahora!",
+      "href": "https://wa.me/573022507384",
+      "seccion": "786abc1"
+    },
+    {
+      "tipo": "boton",
+      "texto": "BLOG INFORMATIVO ¡Descubre más!",
+      "href": "https://motoperitaje.com/blog/",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "h3",
+      "texto": "SERVICIOS RELACIONADOS",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos en bogotá.",
+      "seccion": "9da27eb"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/sala",
+      "seccion": "9da27eb"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos a domicilio.",
+      "seccion": "ee7be54"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/domicilio",
+      "seccion": "ee7be54"
+    },
+    {
+      "tipo": "h3",
+      "texto": "¿QUÈ ES MOTOPERITAJE.COM?",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Somos una compañía con más de 5 años de experiencia en revisión, alistamiento y peritaje de motos, con técnicos especialistas en sistemas de identificación, procesos de pintura, chasis y carrocería.",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "h3",
+      "texto": "¿POR QUÉ CONTRATARNOS?",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Porque somos una de las empresas líderes, contamos con equipos especializados en la revisión de vehículos automotores, motos, carros y semi pesados, sistemas de Scanner y analizador de gases para moto y carro, elevadores, medidores de espesor sobre lámina.",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "servicio-de-peritaje-para-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/01/servicio-de-peritaje-para-motos-en-bogota.webp",
+      "alt": "servicio de peritaje para motos en bogota",
+      "ancho": "525",
+      "alto": "525",
+      "seccion": "99eca8d"
+    },
+    {
+      "tipo": "h3",
+      "texto": "CONOCE NUESTRO",
+      "seccion": "b80ff4b"
+    },
+    {
+      "tipo": "h3",
+      "texto": "BLOG INFORMATIVO",
+      "seccion": "b80ff4b"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Bienvenid@ al blog de MOTOPERITAJE tu fuente de información confiable y actualizada sobre evaluación y peritaje de motos.",
+      "seccion": "97da884"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "QUE-DOCUMENTACION-NECESITO-PARA-REALIZAR-UN-PERITAJE-DE-MOTOS-EN-BOGOTA.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/QUE-DOCUMENTACION-NECESITO-PARA-REALIZAR-UN-PERITAJE-DE-MOTOS-EN-BOGOTA.webp",
+      "alt": "QUE DOCUMENTACION NECESITO PARA REALIZAR UN PERITAJE DE MOTOS EN BOGOTA",
+      "ancho": "525",
+      "alto": "263",
+      "enlace": "https://moto%20peritaje.com/que-documentacion-necesito-para-realizar-un-peritaje-de-motos-en-bogota/",
+      "seccion": "af62ea3"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Como-el-peritaje-revela-su-verdadero-precio-en-el-mercado-de-las-motos.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Como-el-peritaje-revela-su-verdadero-precio-en-el-mercado-de-las-motos.webp",
+      "alt": "Como el peritaje revela su verdadero precio en el mercado de las motos",
+      "ancho": "525",
+      "alto": "263",
+      "enlace": "https://motoperitaje.com/como-el-peritaje-revela-su-verdadero-precio-en-el-mercado-de-las-motos/",
+      "seccion": "af62ea3"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "importancia-del-peritaje-de-motos-en-casos-de-accidentes.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/importancia-del-peritaje-de-motos-en-casos-de-accidentes.webp",
+      "alt": "importancia del peritaje de motos en casos de accidentes",
+      "ancho": "525",
+      "alto": "263",
+      "enlace": "https://motoperitaje.com/importancia-del-peritaje-de-motos-en-casos-de-accidentes/",
+      "seccion": "af62ea3"
+    },
+    {
+      "tipo": "h3",
+      "texto": "INSPECCIÓN TÉCNICA DE MOTOCLICLETAS",
+      "seccion": "0b95263"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Especialistas en Inspección y Avalúo Comercial",
+      "seccion": "0b95263"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Nuestro equipo se dedica exclusivamente a la inspección técnica de peritajes y avalúos comerciales. Somos especialistas formados para identificar cada detalle estructural y funcional de motocicletas.",
+      "seccion": "0b95263"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Entendemos que una moto es una inversión y una pasión. Por eso, nuestro personal aplica un criterio técnico riguroso para determinar el estado real y el valor comercial justo de cada unidad en el mercado actual.",
+      "seccion": "0b95263"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "precio-peritaje-de-carros-en-bogota.jpg",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/precio-peritaje-de-carros-en-bogota.jpg",
+      "alt": "precio peritaje de carros en bogota",
+      "ancho": "1080",
+      "alto": "100",
+      "seccion": "694e493"
+    },
+    {
+      "tipo": "h3",
+      "texto": "NUESTROS ALIADOS",
+      "seccion": "b5d6c74"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-vehiculos-en-sincelejo.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/peritaje-de-vehiculos-en-sincelejo.webp",
+      "alt": "peritaje de vehiculos en sincelejo",
+      "ancho": null,
+      "alto": null,
+      "seccion": "afd4317"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-vehiculos-mosquera-cundinamarca.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/peritaje-de-vehiculos-mosquera-cundinamarca.webp",
+      "alt": "peritaje de vehiculos mosquera cundinamarca",
+      "ancho": null,
+      "alto": null,
+      "seccion": "afd4317"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "servicio-de-peritaje-de-vehiculos-villavicencio.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/servicio-de-peritaje-de-vehiculos-villavicencio.webp",
+      "alt": "servicio de peritaje de vehiculos villavicencio",
+      "ancho": null,
+      "alto": null,
+      "seccion": "afd4317"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-vehiculos-armenia.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/peritaje-de-vehiculos-armenia.webp",
+      "alt": "peritaje de vehiculos armenia",
+      "ancho": null,
+      "alto": null,
+      "seccion": "afd4317"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-vehiculos-en-valledupar.jpg",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/Peritaje-de-vehiculos-en-valledupar.jpg",
+      "alt": "Peritaje de vehiculos en valledupar",
+      "ancho": null,
+      "alto": null,
+      "seccion": "afd4317"
+    },
+    {
+      "tipo": "h3",
+      "texto": "PREGUNTAS FRECUENTES",
+      "seccion": "da63971"
+    },
+    {
+      "tipo": "h4",
+      "texto": "SOBRE EL SERVICIO DE PERITAJE",
+      "seccion": "6b64acb"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Qué incluye el peritaje de motos en Motoperitaje?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Evaluación estructural, revisión de motor, chasis, suspensión, carenajes, luces, frenos, papeles legales y más.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Cuánto dura un peritaje de moto?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El proceso suele durar entre 30 y 45 minutos, dependiendo del tipo de motocicleta.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje incluye revisión legal (comparendos, embargos)?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Sí. Verificamos antecedentes, multas, embargos, siniestros y vigencia de documentos.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Puedo asistir con el vendedor de la moto?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si, recomendamos que el comprador y el vendedor estén presentes para mayor transparencia.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Realizan peritajes de motos a domicilio?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "si, puedes revisar toda la información de nuestro servicio a domicilio en: PERITAJE DE MOTOS A DOMICILIO ✓",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Se entregan algún informe al finalizar el servicio?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Se proporciona un informe por correo electrónico o WhatsApp, mientras que nuestro inspector le explica detalladamente el servicio verbalmente una vez finalizado.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El informe sirve como soporte para la compra de una moto usada?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Totalmente. Es un respaldo para tomar decisiones informadas y seguras.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Qué pasa si la moto no está en buen estado?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Te informaremos con total claridad. Nuestro objetivo es ayudarte a evitar una mala inversión.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje garantiza que no tendré problemas con la moto después?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Ofrecemos una evaluación objetiva, pero recuerda que el mantenimiento futuro depende del uso.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje garantiza que la moto no falle?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No. El peritaje no garantiza que la moto no vaya a fallar. El peritaje evalúa el estado general de la motocicleta en el momento de la inspección, mediante una revisión visual y técnica no invasiva, basada en la experiencia del perito y en las condiciones observables al instante.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Qué pasa si no pasa el peritaje vehicular?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Si el vehículo no aprueba el peritaje, significa que se identificaron hallazgos, inconsistencias o riesgos (técnicos, estructurales o documentales) al momento de la inspección. Esto no impide la venta ni circulación, pero sí es una alerta importante para negociar el precio, exigir reparaciones o decidir no comprar. El peritaje es un servicio informativo y comercial, no una sanción ni una garantía.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿El peritaje es obligatorio?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No, el peritaje no es obligatorio. Es un servicio voluntario, recomendado para conocer el estado técnico, estructural y/o documental del vehículo antes de comprar o vender. Ayuda a tomar decisiones informadas, pero no es un requisito legal.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "h4",
+      "texto": "PRECIOS Y FORMAS DE PAGO",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Cuál es el costo del peritaje en el 2026?",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El precio varía según el tipo de motocicleta. Puedes solicitar una cotización rápida por WhatsApp.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Puedo pagar en efectivo o con tarjeta?",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Aceptamos pagos en efectivo, transferencia bancaria y medios digitales como Bre-B, Nequi o Daviplata.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Quién debe realizar el pago del peritaje?",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El pago del peritaje debe realizarlo la persona que solicita el servicio, es decir, quien agenda la cita con Moto Peritaje.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En la práctica puede ser:",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "El comprador, cuando quiere asegurarse de que el vehículo esté en buen estado antes de comprar.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "El vendedor, cuando desea respaldar la venta con un informe técnico confiable.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Una empresa, aseguradora o entidad financiera, si el peritaje hace parte de un proceso interno.",
+      "seccion": "1c63af3"
+    },
+    {
+      "tipo": "h4",
+      "texto": "ATENCIÓN AL CLIENTE",
+      "seccion": "4c929ae"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Necesito agendar una cita?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No es necesario. Atendemos sin cita previa, pero puedes contactarnos para asegurar disponibilidad.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "¿Dónde están ubicados?",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Actualmente, Granautos cuenta con tres sedes en la ciudad de Bogotá.▪️ Sede Principal: Carrera 50 #2-49 B. Jazmín.▪️ Sede Prado Veraniego: Calle 134 # 46-35.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-tab-title",
+      "texto": "Horarios de Atención",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Lunes a Viernes: 8:00 a.m. a 4:00 p.m.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sábados: 8:00 a.m. a 1:00 p.m.",
+      "seccion": "a0371a1"
+    },
+    {
+      "tipo": "h5",
+      "texto": "SÍGUENOS EN INSTAGRAM",
+      "seccion": "c9d3c55"
+    },
+    {
+      "tipo": "h6",
+      "texto": "@motoperitaje",
+      "seccion": "c9d3c55"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-norte-de-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-norte-de-bogota.webp",
+      "alt": "peritaje norte de bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-motos-a-domicilio-Bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/Peritaje-de-motos-a-domicilio-Bogota.webp",
+      "alt": "Peritaje de motos a domicilio Bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-moto-usada-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-moto-usada-bogota.webp",
+      "alt": "peritaje moto usada bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-moto-antes-de-comprar.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/Peritaje-de-moto-antes-de-comprar.webp",
+      "alt": "Peritaje de moto antes de comprar",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-en-el-norte-de-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-en-el-norte-de-bogota.webp",
+      "alt": "peritaje en el norte de bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "agenda-el-peritaje-de-tu-moto-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/agenda-el-peritaje-de-tu-moto-en-bogota.webp",
+      "alt": "agenda el peritaje de tu moto en bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritajes-de-motos-bogota-norte-moto-peritaje.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritajes-de-motos-bogota-norte-moto-peritaje.webp",
+      "alt": "peritajes de motos bogota norte - moto peritaje",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Diagnostico-tecnico-de-moto.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/Diagnostico-tecnico-de-moto.webp",
+      "alt": "Diagnostico tecnico de moto",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-para-motos-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/10/peritaje-para-motos-bogota.webp",
+      "alt": "peritaje para motos bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Inspeccion-de-motos-usadas-Bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/11/Inspeccion-de-motos-usadas-Bogota.webp",
+      "alt": "Inspeccion de motos usadas Bogota",
+      "ancho": null,
+      "alto": null,
+      "enlace": "https://www.instagram.com/motoperitaje/",
+      "seccion": "8ae90de"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Keywords: Peritaje para motos, precio peritaje moto, peritaje de moto precio, peritaje motos bogota, cuanto vale un peritaje de una moto, peritaje de motos bogotá norte, peritaje bogotá norte, peritaje en el norte de bogotá, peritaje motos precios, valor peritaje moto, peritaje motos Bogotá.",
+      "seccion": "d631854"
+    },
+    {
+      "tipo": "boton",
+      "texto": "POLÍTICA DE TRATAMIENTO DE DATOS",
+      "href": "https://motoperitaje.com/politica-de-tratamiento-de-datos/",
+      "seccion": "4c908d7"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¡SÍGUENOS EN REDES!",
+      "seccion": "c09d127"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Facebook",
+      "href": "https://www.facebook.com/motoperitaje/",
+      "seccion": "666e8e9"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Instagram",
+      "href": "https://www.instagram.com/motoperitaje/",
+      "seccion": "666e8e9"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Tik Tok",
+      "href": "https://www.tiktok.com/@motoperitaje.com",
+      "seccion": "666e8e9"
+    },
+    {
+      "tipo": "boton",
+      "texto": "WhatsApp",
+      "href": "https://wa.me/573022507384",
+      "seccion": "666e8e9"
+    },
+    {
+      "tipo": "h2",
+      "texto": "ESTAMOS UBICADOS EN",
+      "seccion": "bd4cc5a"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Carrera 50 #2-49. B. Jazmín",
+      "href": null,
+      "seccion": "bd4cc5a"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Calle 134 # 46-35 - Prado Veraniego",
+      "href": null,
+      "seccion": "bd4cc5a"
+    },
+    {
+      "tipo": "h3",
+      "texto": "HORARIOS DE ATENCIÓN",
+      "seccion": "aae628d"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Lunes a Viernes: 8:00 a.m. a 4:00 p.m.Sábados: 8:00 a.m. a 1:00 p.m.",
+      "seccion": "aae628d"
+    },
+    {
+      "tipo": "iframe",
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "seccion": "a4adad5"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "453303a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "453303a"
+    }
+  ]
+}

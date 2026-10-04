@@ -1,0 +1,460 @@
+{
+  "url": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/",
+  "ruta": "/las-marcas-de-motos-mas-populares/",
+  "title": "Las marcas de motos más populares y confiables en 2026 | Motoperitaje",
+  "meta_description": "Conoce las marcas de motos más populares del mundo. Descubre su historia, modelos destacados y cuál se adapta mejor a tu estilo de conducción.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Peritaje de Motos HOY en Bogotá, Sin Cita Previa | Motoperitaje | Peritajes y revision de motos y super motos",
+    "og:type": "article",
+    "og:title": "Las marcas de motos más populares y confiables en 2026 | Motoperitaje",
+    "og:description": "Conoce las marcas de motos más populares del mundo. Descubre su historia, modelos destacados y cuál se adapta mejor a tu estilo de conducción.",
+    "og:url": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/",
+    "og:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "og:image:secure_url": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp",
+    "article:published_time": "2023-09-28T13:28:32+00:00",
+    "article:modified_time": "2026-01-22T17:39:50+00:00",
+    "twitter:card": "summary",
+    "twitter:title": "Las marcas de motos más populares y confiables en 2026 | Motoperitaje",
+    "twitter:description": "Conoce las marcas de motos más populares del mundo. Descubre su historia, modelos destacados y cuál se adapta mejor a tu estilo de conducción.",
+    "twitter:image": "https://motoperitaje.com/wp-content/uploads/2026/01/cropped-moto-peritaje-marca.webp"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#blogposting",
+          "name": "Las marcas de motos más populares y confiables en 2026 | Motoperitaje",
+          "headline": "Las marcas de motos más populares",
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2024/05/LAS-MARCAS-DE-MOTOS-MAS-POPULARES-DEL-MUNDO.webp",
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#articleImage",
+            "width": 2560,
+            "height": 1280,
+            "caption": "LAS MARCAS DE MOTOS MÁS POPULARES DEL MUNDO"
+          },
+          "datePublished": "2023-09-28T13:28:32+00:00",
+          "dateModified": "2026-01-22T17:39:50+00:00",
+          "inLanguage": "es-ES",
+          "mainEntityOfPage": {
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#webpage"
+          },
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#webpage"
+          },
+          "articleSection": "Uncategorized"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://motoperitaje.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+              "position": 2,
+              "name": "Uncategorized",
+              "item": "https://motoperitaje.com/category/uncategorized/",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#listItem",
+                "name": "Las marcas de motos más populares"
+              },
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com#listItem",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#listItem",
+              "position": 3,
+              "name": "Las marcas de motos más populares",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://motoperitaje.com/category/uncategorized/#listItem",
+                "name": "Uncategorized"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://motoperitaje.com/#organization",
+          "name": "Moto Peritaje",
+          "description": "Peritaje de motos en Bogotá con expertos certificados. Revisión completa, informe técnico inmediato y sin cita previa. ¡Cotiza tu peritaje hoy en Moto Peritaje! WhatsApp 3022507384",
+          "url": "https://motoperitaje.com/",
+          "email": "motoperitaje@gmail.com",
+          "telephone": "+573022507384",
+          "foundingDate": "2023-01-01",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://motoperitaje.com/wp-content/uploads/2021/12/27176.png",
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#organizationLogo",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#organizationLogo"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://motoperitaje.com/author/admin/#author",
+          "url": "https://motoperitaje.com/author/admin/",
+          "name": "admin",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#authorImage",
+            "url": "https://secure.gravatar.com/avatar/7254071fca2e6fce54eefc61f5b4958b8c3021dba9a37b1598636a1288e6b539?s=96&d=mm&r=g",
+            "width": 96,
+            "height": 96,
+            "caption": "admin"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#webpage",
+          "url": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/",
+          "name": "Las marcas de motos más populares y confiables en 2026 | Motoperitaje",
+          "description": "Conoce las marcas de motos más populares del mundo. Descubre su historia, modelos destacados y cuál se adapta mejor a tu estilo de conducción.",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://motoperitaje.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://motoperitaje.com/las-marcas-de-motos-mas-populares/#breadcrumblist"
+          },
+          "author": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "creator": {
+            "@id": "https://motoperitaje.com/author/admin/#author"
+          },
+          "datePublished": "2023-09-28T13:28:32+00:00",
+          "dateModified": "2026-01-22T17:39:50+00:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://motoperitaje.com/#website",
+          "url": "https://motoperitaje.com/",
+          "name": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "alternateName": "Peritaje de Motos HOY en Bogotá 🚀 Sin Cita Previa | Motoperitaje",
+          "description": "Peritajes y revision de motos y super motos",
+          "inLanguage": "es-ES",
+          "publisher": {
+            "@id": "https://motoperitaje.com/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "body_class": "wp-singular post-template post-template-elementor_canvas single single-post postid-1540 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-automobile-hub cookies-not-set has-header-image has-sidebar elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-1540",
+  "whatsapp": [],
+  "telefonos": [
+    "3022507384"
+  ],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Inicio",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precio Peritaje Motos",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Precios a Domicilio",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Peritaje Carros",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Contáctanos",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Blog",
+      "seccion": "0ad92ec"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "LAS-MARCAS-DE-MOTOS-MAS-POPULARES-DEL-MUNDO.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/LAS-MARCAS-DE-MOTOS-MAS-POPULARES-DEL-MUNDO.webp",
+      "alt": "LAS MARCAS DE MOTOS MÁS POPULARES DEL MUNDO",
+      "ancho": "1536",
+      "alto": "768",
+      "seccion": "cc4bd3c"
+    },
+    {
+      "tipo": "h1",
+      "texto": "DESCUBRE LAS MARCAS DE MOTOS MÁS POPULARES DEL MUNDO",
+      "seccion": "cc4bd3c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Explora el emocionante mundo de las marcas de motos más reconocidas globalmente. Desde las icónicas Harley-Davidson hasta las poderosas Ducati, nuestro blog ofrece una guía completa con información detallada sobre cada marca, modelos emblemáticos y las últimas innovaciones en la industria de las motocicletas.",
+      "seccion": "cc4bd3c"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Harley-Davidson:",
+      "seccion": "cc2a94c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Esta icónica marca estadounidense es conocida por sus motos de crucero de estilo clásico. Fundada en 1903, Harley-Davidson ha mantenido una base de seguidores leales y es símbolo de la cultura de las motos en los Estados Unidos.",
+      "seccion": "cc2a94c"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Marcas-de-motocicletas-populares.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Marcas-de-motocicletas-populares.webp",
+      "alt": "Marcas de motocicletas populares",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "e78b3b2"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Harley-Davidson-moto.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Harley-Davidson-moto.webp",
+      "alt": "Harley Davidson moto",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "e78b3b2"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Honda:",
+      "seccion": "0c21186"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Honda es una de las marcas de motocicletas más grandes y reconocidas del mundo. Ofrecen una amplia gama de modelos, desde motos deportivas hasta scooters y motos de aventura. Son conocidos por su confiabilidad y tecnología innovadora.",
+      "seccion": "0c21186"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "motos-deportivas-honda.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/motos-deportivas-honda.webp",
+      "alt": "motos deportivas honda",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "1e05612"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "honda-moto-scooters.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/honda-moto-scooters.webp",
+      "alt": "honda moto scooters",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "1e05612"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Ducati:",
+      "seccion": "ea56927"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Esta marca italiana es famosa por sus motos deportivas de alto rendimiento. Ducati ha ganado numerosos campeonatos en competiciones de motociclismo y es admirada por su diseño elegante y tecnología avanzada.",
+      "seccion": "ea56927"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Las-marcas-de-motos-mas-populares.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Las-marcas-de-motos-mas-populares.webp",
+      "alt": "Las marcas de motos más populares",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "f2e2382"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "moto-deportiva-ducati.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/moto-deportiva-ducati.webp",
+      "alt": "moto deportiva ducati",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "f2e2382"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Kawasaki:",
+      "seccion": "5226ce7"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Kawasaki es otra marca japonesa con una sólida presencia en el mercado de las motocicletas. Ofrecen una amplia gama de modelos, desde motos deportivas hasta motos de cross y crucero. Son conocidos por su potencia y rendimiento.",
+      "seccion": "5226ce7"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "modelos-de-moto-kawasaki.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/modelos-de-moto-kawasaki.webp",
+      "alt": "modelos de moto kawasaki",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "9ac4bca"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "moto-kawasaki-ninja-negra.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/moto-kawasaki-ninja-negra.webp",
+      "alt": "moto kawasaki ninja negra",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "9ac4bca"
+    },
+    {
+      "tipo": "h2",
+      "texto": "BMW Motorrad:",
+      "seccion": "9f92214"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La división de motocicletas de BMW es conocida por su enfoque en la calidad y la tecnología. Ofrecen motos de turismo, aventura y deportivas, y son populares entre los entusiastas de los viajes largos.",
+      "seccion": "9f92214"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Modelos-BMW-Motorrad.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/Modelos-BMW-Motorrad.webp",
+      "alt": "Modelos BMW Motorrad",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "0f7354e"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "BMW-Motorrad.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2024/05/BMW-Motorrad.webp",
+      "alt": "BMW Motorrad",
+      "ancho": "525",
+      "alto": "440",
+      "seccion": "0f7354e"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "peritaje-de-motos-en-bogota.webp",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/01/peritaje-de-motos-en-bogota.webp",
+      "alt": "peritaje de motos en bogota",
+      "ancho": "525",
+      "alto": "525",
+      "seccion": "cc4bd3c"
+    },
+    {
+      "tipo": "h3",
+      "texto": "SERVICIOS RELACIONADOS",
+      "seccion": "cc4bd3c"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos en bogotá.",
+      "seccion": "4f54020"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/sala",
+      "seccion": "4f54020"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Peritaje-de-vehiculos-a-domicilio-en-bogota.jpg",
+      "url": "https://motoperitaje.com/wp-content/uploads/2023/03/Peritaje-de-vehiculos-a-domicilio-en-bogota.jpg",
+      "alt": "",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cb67aee"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Servicio de peritaje de vehículos a domicilio.",
+      "seccion": "cb67aee"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "www.granautos.com.co/domicilio",
+      "seccion": "cb67aee"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "medios-de-pago.png",
+      "url": "https://motoperitaje.com/wp-content/uploads/2025/06/medios-de-pago.png",
+      "alt": "medios de pago",
+      "ancho": "525",
+      "alto": "46",
+      "seccion": "1ca2aa2"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Copyright 2026 © Moto Peritaje | Todos los derechos reservados",
+      "seccion": "1ca2aa2"
+    }
+  ]
+}
