@@ -40,7 +40,7 @@ así que no hay comando de build: el deploy es `npx wrangler deploy`.
 ## Qué cambió respecto a WordPress (a propósito)
 
 - Las imágenes cargan directo (`src`) en lugar del lazy-load por JavaScript de Smush; se usa `loading="lazy"` nativo.
-- Analítica: se conserva Google Analytics `G-K1BMVYM7ZX`, Google Tag Manager `GTM-WNWDNRD` y el Meta Pixel `1200120341805655`, cargados una sola vez (antes MonsterInsights y Site Kit cargaban gtag por duplicado).
+- Analítica: Google Tag Manager `GTM-WNWDNRD` (que a su vez dispara GA4 `G-VVG3DHFGFY` y Google Ads `AW-861987426` / `AW-10875778176`) y GA4 `G-K1BMVYM7ZX` con gtag directo, cargado una sola vez (antes MonsterInsights y Site Kit lo cargaban por duplicado). No había Meta Pixel activo.
 - Formularios: el de contacto (WPForms) y el de agendar (Bookly) no tienen servidor; al enviarlos abren WhatsApp (302 250 7384) con los datos escritos.
 - `/?p=ID` (enlaces cortos de WordPress) redirigen 301 a la URL definitiva.
-- Archivos por fecha, autor y la página 2 de la categoría no venían en el paquete: redirigen temporalmente (302) a `/blog/` o a la categoría.
+- Los botones de WhatsApp reproducen el marcado exacto del plugin con su CSS original y su configuración (`migracion/whatsapp-config.json`).

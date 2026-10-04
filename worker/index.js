@@ -7,8 +7,6 @@
  *   - URLs sin slash final -> con slash final (/contactanos -> /contactanos/)
  *   - Atajos de WordPress  /?p=ID y /?page_id=ID -> URL definitiva
  *   - Feeds y rutas de administración de WordPress
- * Los archivos por fecha/autor y la página 2 de la categoría aún no están migrados: van con 302
- * (temporal) al blog o a la categoría hasta tener su HTML.
  */
 import atajos from './atajos.json';
 
@@ -23,10 +21,6 @@ const PERMANENTES = [
 
 const TEMPORALES = [
 	[/^\/(wp-admin(\/.*)?|wp-login\.php)$/, '/'],
-	[/^\/category\/uncategorized\/page\/\d+\/?$/, '/category/uncategorized/'],
-	[/^\/author\/[^/]+(\/page\/\d+)?\/?$/, '/blog/'],
-	[/^\/\d{4}(\/\d{2}(\/\d{2})?)?\/?$/, '/blog/'],
-	[/^\/blog\/page\/\d+\/?$/, '/blog/'],
 ];
 
 function redirigir(url, path, status) {

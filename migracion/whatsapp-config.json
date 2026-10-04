@@ -1,0 +1,281 @@
+{
+  "fuente": "Plugin \"WhatsApp for WordPress\" (NinjaTeam). Objeto global njt_wa encontrado en el JS combinado de LiteSpeed (wp-originales/wp-content/litespeed/js/c67f9aaa6b9fd2476dd68e0f746ca441.js). Igual en todas las páginas.",
+  "njt_wa": {
+    "gdprStatus": "",
+    "accounts": [
+      {
+        "accountId": 2935,
+        "accountName": "July Vega",
+        "avatar": "https://motoperitaje.com/wp-content/uploads/2025/07/Asesora-comercial-July.jpeg",
+        "number": "+573022507384",
+        "title": "Asesora Comercial",
+        "predefinedText": "",
+        "willBeBackText": "I will be back in [njwa_time_work]",
+        "dayOffsText": "I will be back soon",
+        "isAlwaysAvailable": "ON",
+        "daysOfWeekWorking": {
+          "sunday": {
+            "isWorkingOnDay": "OFF",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:30"
+              }
+            ]
+          },
+          "monday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:00"
+              }
+            ]
+          },
+          "thursday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:00"
+              }
+            ]
+          },
+          "friday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:00"
+              }
+            ]
+          },
+          "saturday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "14:00"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "accountId": 2938,
+        "accountName": "Andrés Rodríguez",
+        "avatar": "https://motoperitaje.com/wp-content/uploads/2025/07/Asesor-comercial-Andres.jpeg",
+        "number": "+573021138434",
+        "title": "Asesor Comercial",
+        "predefinedText": "Hola, quiero mas información. ",
+        "willBeBackText": "Volveré en [njwa_time_work]",
+        "dayOffsText": "Volveré pronto",
+        "isAlwaysAvailable": "ON",
+        "daysOfWeekWorking": {
+          "sunday": {
+            "isWorkingOnDay": "OFF",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:30"
+              }
+            ]
+          },
+          "monday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "thursday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "friday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "saturday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "accountId": 3483,
+        "accountName": "Asesoría Comercial",
+        "avatar": "https://motoperitaje.com/wp-content/uploads/2026/01/moto-peritaje-marca.webp",
+        "number": "+573019262267",
+        "title": "Comunícate con nuestra área comercial",
+        "predefinedText": "Hola, quiero mas información. ",
+        "willBeBackText": "I will be back in [njwa_time_work]",
+        "dayOffsText": "Volveré pronto",
+        "isAlwaysAvailable": "ON",
+        "daysOfWeekWorking": {
+          "sunday": {
+            "isWorkingOnDay": "OFF",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "17:30"
+              }
+            ]
+          },
+          "monday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "thursday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "friday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          },
+          "saturday": {
+            "isWorkingOnDay": "ON",
+            "workHours": [
+              {
+                "startTime": "08:00",
+                "endTime": "20:00"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "options": {
+      "display": {
+        "displayCondition": "showAllPage",
+        "displayPostCondition": "showAllPost",
+        "includePages": [],
+        "excludePages": [],
+        "includePosts": [],
+        "excludePosts": [],
+        "showOnDesktop": "ON",
+        "showOnMobile": "ON",
+        "time_symbols": "h:m"
+      },
+      "styles": {
+        "title": "Chatea con un asesor.",
+        "responseText": "<span style=\"color: #3a3a3a;font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif\">👋 ¡Hola! Estamos listos para ayudarte.</span>",
+        "description": "<span style=\"color: #3a3a3a;font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif\">Escríbenos ya mismo y obtén información.</span>",
+        "backgroundColor": "#2db742",
+        "textColor": "#ffffff",
+        "titleSize": "18",
+        "accountNameSize": "14",
+        "descriptionTextSize": "12",
+        "regularTextSize": "11",
+        "scrollHeight": "500",
+        "isShowScroll": "OFF",
+        "isShowResponseText": "OFF",
+        "btnLabel": "Te ayudamos? <strong>Chatea con nosotros</strong>",
+        "btnLabelWidth": "156",
+        "btnPosition": "right",
+        "btnLeftDistance": "30",
+        "btnRightDistance": "30",
+        "btnBottomDistance": "30",
+        "isShowBtnLabel": "ON",
+        "isShowGDPR": "OFF",
+        "gdprContent": "Please accept our <a href=\"https://ninjateam.org/privacy-policy/\">privacy policy</a> first to start a conversation.",
+        "widgetType": "expandable"
+      },
+      "analytics": {
+        "enabledGoogle": "OFF",
+        "enabledFacebook": "OFF",
+        "enabledGoogleGA4": "OFF"
+      },
+      "accounts": {
+        "hideOfflineAgents": "OFF"
+      }
+    }
+  }
+}

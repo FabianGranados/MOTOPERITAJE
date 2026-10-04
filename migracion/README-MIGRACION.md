@@ -6,7 +6,7 @@ Extraído del sitio en vivo el 2026-10-04. Objetivo: **réplica exacta** del sit
 - WordPress + **Elementor** (todas las páginas y entradas usan la plantilla *Elementor Canvas*: el encabezado, menú y pie de página están **dentro** del contenido de cada página, no en el tema). Tema base: automobile-hub (casi no se ve).
 - SEO: plugin **All in One SEO 4.9.8** (titles, descriptions, schema JSON-LD y sitemaps).
 - Plugins visibles en el front: Call Now Button (botón flotante "Llama ya..." → tel:3022507384), botones de WhatsApp (wa.me/573022507384), **Trustindex** (widget de reseñas de Google, script cdn.trustindex.io/loader.js), Cookie Notice (banner de cookies), Elementor Pro (formularios, menú).
-- Analítica: **G-K1BMVYM7ZX · GTM-WNWDNRD** (Google Tag / GA4 y Google Tag Manager). Hay un contenedor de Facebook Pixel (`fb-pxl-ajax-code`) pero no se encontró ID de píxel en el HTML.
+- Analítica y píxeles: ver sección «Etiquetas de seguimiento» al final.
 - Teléfono / WhatsApp: **302 250 7384**. Direcciones que aparecen: Carrera 50 #2-49, B. Jazmín · Calle 134 # 46-35, Prado Veraniego (Bogotá). Horario: Lunes a Viernes 8:00 a.m.–4:00 p.m.; Sábados 8:00 a.m.–1:00 p.m. (verificar en paginas/*.md).
 
 ## URLs indexadas (conservar EXACTAS, con slash final)
@@ -63,3 +63,46 @@ En `logos/` (copias) — el logo del encabezado es **Motoperitaje.com_.webp** (v
 - Imágenes que el HTML referencia pero ya dan 404 en el servidor (no incluidas): 2023/03/Peritaje-de-vehiculos-a-domicilio-en-bogota.jpg y dos miniaturas de Elementor en 2024/05/elementor/thumbs/.
 - La categoría /category/uncategorized/ está indexada; decidir si se mantiene o se redirige 301 a /blog/.
 - Los formularios de las entradas del blog son de comentarios/Elementor: en un sitio estático hay que reemplazarlos (WhatsApp o un servicio de formularios).
+
+
+## Etiquetas de seguimiento (verificado en el navegador el 2026-10-04) — TRANSFERIR AL SITIO NUEVO
+| Etiqueta | ID | Cómo se carga hoy | Acción en el sitio nuevo |
+|---|---|---|---|
+| Google Tag Manager | **GTM-WNWDNRD** | Plugin Site Kit (head + noscript tras <body>) | Instalar GTM con este ID (snippet head + noscript). |
+| Google Analytics 4 | **G-K1BMVYM7ZX** | Directo con gtag.js, insertado DOS veces (MonsterInsights y Site Kit) | Instalar UNA sola vez (gtag directo). Si GTM ya lo dispara, no duplicar. |
+| Google Analytics 4 | G-VVG3DHFGFY | Dentro de GTM | Nada: viene con GTM. |
+| Google Ads (conversiones/remarketing) | AW-861987426 | Dentro de GTM | Nada: viene con GTM. |
+| Google Ads (conversiones/remarketing) | AW-10875778176 | Dentro de GTM | Nada: viene con GTM. |
+| Meta (Facebook) Pixel | — (ninguno activo) | El plugin de Meta está instalado pero el bloque "Meta Pixel Code" está vacío y no se envía nada a Facebook | No hay ID que migrar. Si se quiere, crear/obtener el ID en Meta Events Manager. |
+
+No se encontraron: Microsoft Clarity, Hotjar, TikTok Pixel, LinkedIn Insight ni metas de verificación (google-site-verification / facebook-domain-verification).
+Importante: las conversiones de Google Ads suelen medir clics a WhatsApp/llamada; mantener los mismos enlaces (wa.me/573022507384 y tel:3022507384) para que los activadores de GTM sigan funcionando.
+
+
+## Actualización 2 (respuestas a las preguntas del agente)
+
+### 1. Archivos originales de Elementor, tema y plugins → `wp-originales/` (rutas originales conservadas)
+136 archivos, p. ej. `wp-originales/wp-content/plugins/elementor/assets/css/frontend.min.css`.
+- El servidor NO permite listar carpetas (responde 403), así que no se pueden bajar "carpetas completas". Se descargó **todo lo que el sitio realmente carga** en las 44 URLs rastreadas, más todo lo que esos CSS referencian con url() (eicons, Font Awesome en todos sus formatos, animaciones, swiper, webfonts del tema…).
+- Incluye Elementor y Elementor Pro (css, eicons, font-awesome, animations, swiper), tema automobile-hub (bootstrap.css, blocks.css, animate.css, fontawesome-all.css + webfonts), cookie-notice/front.min.css, call-now-button/modern.css, whatsapp-for-wordpress (style.css), wpforms-full.min.css, Bookly (formulario de reservas), AIOSEO y las google-fonts locales de Elementor. Ver la lista exacta dentro de `wp-originales/`.
+- El JS de los plugins (WhatsApp, Elementor, etc.) lo sirve LiteSpeed combinado en un archivo por página; se incluye uno de referencia: `wp-originales/wp-content/litespeed/js/c67f9aaa6b9fd2476dd68e0f746ca441.js` (los demás son el mismo código con otro hash).
+- Algunas imágenes que piden los CSS de Bookly y WPForms (banderas, íconos de cámara) dan 404 en el propio servidor: no existen y no hacen falta.
+
+### 2. Botón flotante de WhatsApp (plugin "WhatsApp for WordPress" de NinjaTeam)
+Configuración exacta en `whatsapp-config.json` (objeto `njt_wa`, igual en todas las páginas). **Muestra los 3 asesores**, en este orden:
+
+| Nombre | Cargo | Número | Mensaje prellenado | Foto |
+|---|---|---|---|---|
+| July Vega | Asesora Comercial | +573022507384 | (vacío) | Asesora-comercial-July.jpeg |
+| Andrés Rodríguez | Asesor Comercial | +573021138434 | Hola, quiero mas información.  | Asesor-comercial-Andres.jpeg |
+| Asesoría Comercial | Comunícate con nuestra área comercial | +573019262267 | Hola, quiero mas información.  | moto-peritaje-marca.webp |
+
+- Botón a la derecha con el texto "Te ayudamos? **Chatea con nosotros**"; cabecera de la ventana "Chatea con un asesor."; visible en todas las páginas; los tres marcados como siempre disponibles.
+- Fotos de los asesores: `wp-originales/wp-content/uploads/2025/07/`; avatar de "Asesoría Comercial": `.../2026/01/moto-peritaje-marca.webp`.
+
+### 3. Páginas que faltaban → `html-original/`
+Nuevas: 2023, 2023_05, 2023_05_25, 2023_06, 2023_06_01, 2023_06_08, 2023_09, 2023_09_14, 2023_09_28, 2023_10, 2023_10_06, 2023_10_12, 2025, 2025_10, 2025_10_02, 2025_11, 2025_11_27, author_admin, author_admin_page_2, blog_page_2, category_uncategorized_feed, category_uncategorized_page_2, page_2.
+Índice con el código HTTP de cada URL rastreada: `html-original/_indice-crawl.json`.
+
+### 4. Capturas de pantalla
+No se incluyen todavía: la captura automática desde el navegador no reproduce bien el sitio (botones sin texto, widget de reseñas y tarjetas del blog en blanco) y sería engañosa para comparar. Se enviarán aparte, tomadas manualmente.

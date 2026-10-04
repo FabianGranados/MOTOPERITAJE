@@ -58,7 +58,16 @@ PAGES = {
     'mejores-accesorios-para-motociclistas.html': '/mejores-accesorios-para-motociclistas/',
     'guia-de-mantenimiento-preventivo-para-motos-usadas.html': '/guia-de-mantenimiento-preventivo-para-motos-usadas/',
     'que-revisar-antes-de-comprar-una-moto-usada-en-bogota.html': '/que-revisar-antes-de-comprar-una-moto-usada-en-bogota/',
+    # Listados de WordPress (plantillas del tema, no Elementor)
+    'page_2.html': '/page/2/',
+    'blog_page_2.html': '/blog/page/2/',
+    'category_uncategorized_page_2.html': '/category/uncategorized/page/2/',
+    'author_admin.html': '/author/admin/',
+    'author_admin_page_2.html': '/author/admin/page/2/',
 }
+# Archivos por fecha: 2023.html -> /2023/, 2023_05.html -> /2023/05/, 2023_05_25.html -> /2023/05/25/
+for _f in sorted((MIG / 'html-original').glob('[0-9][0-9][0-9][0-9]*.html')):
+    PAGES[_f.name] = '/' + _f.stem.replace('_', '/') + '/'
 
 # Ruta publicada (sin query) -> archivo de origen. Orden de prioridad:
 #   1) migracion/wp-originales/<ruta>  (archivos originales que se consigan después: siempre ganan)
@@ -97,6 +106,8 @@ OPTIONAL_REFS = {
     '/wp-content/themes/automobile-hub/assets/images/sliderimage.png',
     '/wp-content/themes/automobile-hub/assets/images/pin.png',
 }
+# Imágenes que pide el CSS de WPForms para campos que el sitio no usa (ya daban 404 en WordPress)
+OPTIONAL_PREFIXES = ('/wp-content/plugins/wpforms-lite/assets/pro/images/', '/wp-content/plugins/wpforms-lite/assets/images/crop.svg')
 
 LAZY_PLACEHOLDER = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg=='
 
@@ -163,7 +174,8 @@ def publish_upload(path, manifest, width_hint=None):
     dst = OUT / path.lstrip('/')
     if dst.exists():
         return True
-    src = find_source(path, manifest)
+    src = (MIG / 'wp-originales' / path.lstrip('/'))
+    src = src if src.exists() else find_source(path, manifest)
     if src:
         dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(src, dst)
@@ -239,6 +251,8 @@ def classify_font(cmap):
 
 
 def build_fonts():
+    if (MIG / 'wp-originales/wp-content/uploads/elementor/google-fonts/css/roboto.css').exists():
+        return  # se publican los originales (collect_assets)
     fonts_dir = OUT / 'wp-content/uploads/elementor/google-fonts/fonts'
     fonts_dir.mkdir(parents=True, exist_ok=True)
     css = {'roboto': [], 'robotoslab': []}
@@ -298,9 +312,9 @@ def publish_static(path, manifest):
             target = ref.split('?')[0].split('#')[0]
             if not target.startswith('/'):
                 target = os.path.normpath(os.path.join(os.path.dirname(path), target))
-            if target in OPTIONAL_REFS:
+            if target in OPTIONAL_REFS or target.startswith(OPTIONAL_PREFIXES):
                 continue
-            if target.startswith('/wp-content/uploads/') and not target.startswith('/wp-content/uploads/elementor/google-fonts'):
+            if target.startswith('/wp-content/uploads/') and not target.startswith('/wp-content/uploads/elementor/'):
                 publish_upload(target, manifest)
             elif target.startswith('/wp-content/') and not (OUT / target.lstrip('/')).exists():
                 publish_static(target, manifest)
@@ -344,33 +358,11 @@ ANALYTICS = '''<!-- Google tag (gtag.js) -->
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 gtag("set","linker",{"domains":["motoperitaje.com"]});gtag("js",new Date());gtag("config","G-K1BMVYM7ZX");
 </script>
-<!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init','1200120341805655');fbq('track','PageView');
-</script>
-<!-- End Meta Pixel Code -->
 '''
 
-WHATSAPP_WIDGET = {
-    'title': 'Chatea con un asesor.',
-    'description': 'Escríbenos ya mismo y obtén información.',
-    'notice': 'El equipo suele responder en pocos minutos.',
-    'label': 'Te ayudamos? <strong>Chatea con nosotros</strong>',
-    'labelWidth': 156,
-    'accounts': [
-        {'name': 'July Vega', 'avatar': '/wp-content/uploads/2025/07/Asesora-comercial-July.jpeg',
-         'info': {'number': '+573022507384', 'title': 'Asesora Comercial', 'predefinedText': ''}},
-        {'name': 'Andrés Rodríguez', 'avatar': '/wp-content/uploads/2025/07/Asesor-comercial-Andres.jpeg',
-         'info': {'number': '+573021138434', 'title': 'Asesor Comercial', 'predefinedText': 'Hola, quiero mas información. '}},
-        {'name': 'Asesoría Comercial', 'avatar': '/wp-content/uploads/2026/01/moto-peritaje-marca.webp',
-         'info': {'number': '+573019262267', 'title': 'Comunícate con nuestra área comercial', 'predefinedText': 'Hola, quiero mas información. '}},
-    ],
-}
+# Configuración original del botón flotante (objeto njt_wa del plugin WhatsApp for WordPress)
+WHATSAPP_WIDGET = json.loads((MIG / 'whatsapp-config.json').read_text(encoding='utf-8'))['njt_wa']
+
 
 BOOKLY_REPLACEMENT = '''<div class="wpforms-container wpforms-container-full mp-agenda" id="mp-agenda">
 <form class="wpforms-form mp-form-whatsapp" data-wa-number="573022507384" data-wa-intro="Hola, quiero agendar un peritaje de moto:">
@@ -445,7 +437,7 @@ def transform(src_html, route, manifest):
     page = restore(page, store)
 
     # Scripts del sitio estático
-    tail = ['<script>window.MP_WHATSAPP_WIDGET=%s;</script>' % json.dumps(WHATSAPP_WIDGET, ensure_ascii=False)]
+    tail = ['<script>window.MP_WHATSAPP=%s;</script>' % json.dumps(WHATSAPP_WIDGET, ensure_ascii=False).replace('</', '<\\/')]
     if 'elementor-widget-image-carousel' in page:
         tail.append('<script src="/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script>')
     tail.append('<script src="/assets/js/sitio.js?v=1"></script>')
@@ -469,7 +461,8 @@ def collect_assets(page, manifest):
         elif path.startswith('/wp-content/uploads/elementor/thumbs/'):
             publish_upload(path, manifest, width)
         elif path.startswith('/wp-content/uploads/elementor/google-fonts/'):
-            pass  # generadas por build_fonts()
+            if resolve_static(path):
+                publish_static(path, manifest)
         elif path.startswith('/wp-content/uploads/elementor/css/') or path.startswith('/wp-content/plugins/') or path.startswith('/wp-content/themes/'):
             if not path.endswith('.js') or path.startswith('/wp-content/plugins/elementor/assets/lib/swiper/'):
                 publish_static(path, manifest)

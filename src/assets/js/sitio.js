@@ -239,67 +239,174 @@
 		});
 	}
 
-	/* ---------- Botones de WhatsApp (WhatsApp for WordPress) ---------- */
-	function accountButton(info, extraClass) {
-		var i = info.info || {};
-		var st = info.styles || {};
-		var a = document.createElement('a');
-		a.href = waLink(i.number, i.predefinedText || '');
-		a.target = '_blank';
-		a.rel = 'nofollow noopener';
-		a.className = 'wa__button ' + (st.type === 'square' ? 'wa__sq_button' : 'wa__r_button') + ' wa__stt_online wa__btn_w_img' + (extraClass ? ' ' + extraClass : '');
-		if (!extraClass) {
-			a.style.backgroundColor = st.backgroundColor || '#2DB742';
-			a.style.color = st.textColor || '#fff';
-			if (st.width) a.style.width = st.width + 'px';
-			if (st.height) a.style.minHeight = st.height + 'px';
+	/* ---------- Botones de WhatsApp (plugin "WhatsApp for WordPress" de NinjaTeam) ----------
+	 * Reproduce el marcado exacto que generaba el plugin (window.njtWhatsApp en el JS de LiteSpeed),
+	 * para que su hoja de estilos original (whatsapp-for-wordpress/assets/dist/css/style.css) aplique igual.
+	 * La configuración del botón flotante llega en window.MP_WHATSAPP (objeto njt_wa original). */
+	var WA_I18N = { online: 'Online', offline: 'Offline' };
+
+	function waHref(acc) {
+		var n = String(acc.number || '');
+		if (n.indexOf('chat.whatsapp.com') !== -1) return n;
+		var text = (acc.predefinedText || '')
+			.replace(/\[njwa_page_title\]/gi, encodeURIComponent(document.title))
+			.replace(/\[njwa_page_url\]/gi, window.location.href)
+			.replace(/\n/gi, '%0A');
+		return 'https://api.whatsapp.com/send?phone=' + n.replace(/[^0-9]/g, '') + (acc.predefinedText ? '&text=' + text : '');
+	}
+
+	function el(tag, cls, html) {
+		var e = document.createElement(tag);
+		if (cls) e.className = cls;
+		if (html !== undefined) e.innerHTML = html;
+		return e;
+	}
+
+	function localUrl(u) {
+		return String(u || '').replace(/^https?:\/\/motoperitaje\.com/, '');
+	}
+
+	function createWaButton(holder, data) {
+		var info = data.info || {};
+		var st = data.styles || {};
+		var avatar = localUrl(data.avatar);
+		var a = el('a', 'wa__button' + (st.type === 'round' ? ' wa__r_button' : ' wa__sq_button') + ' wa__stt_online' +
+			(avatar ? ' wa__btn_w_img' : ' wa__btn_w_icon') + (data.name ? '' : ' wa__button_text_only'));
+		a.setAttribute('target', '_blank');
+		a.setAttribute('href', waHref(info));
+		a.setAttribute('rel', 'nofollow noopener noreferrer');
+		a.style.backgroundColor = st.backgroundColor;
+
+		var img = el('div', avatar ? 'wa__cs_img' : 'wa__btn_icon');
+		if (avatar) {
+			var wrap = el('div', 'wa__cs_img_wrap');
+			wrap.setAttribute('style', 'background: url(' + avatar + ') center center no-repeat; background-size: cover');
+			img.appendChild(wrap);
+		} else {
+			var i = el('img');
+			i.alt = 'img';
+			i.src = localUrl(data.defaultAvatar);
+			img.appendChild(i);
 		}
-		var avatar = info.avatar || info.defaultAvatar || '';
-		a.innerHTML =
-			'<div class="wa__cs_img"><div class="wa__cs_img_wrap" style="background:url(\'' + escapeHtml(avatar) + '\') center center no-repeat;background-size:cover"></div></div>' +
-			'<div class="wa__btn_txt"><div class="wa__cs_info"><div class="wa__cs_name">' + escapeHtml(info.name || '') + '</div><div class="wa__cs_status">Online</div></div>' +
-			'<div class="wa__btn_title">' + escapeHtml(extraClass ? (i.title || st.label || '') : (st.label || i.title || '')) + '</div></div>';
-		return a;
+		var white = st.textColor === '#fff' || st.textColor === '#ffffff';
+		var txt = el('div', 'wa__btn_txt');
+		if (data.name) {
+			var csInfo = el('div', 'wa__cs_info');
+			var name = el('div', 'wa__cs_name', escapeHtml(data.name));
+			name.setAttribute('style', 'color: ' + (white ? '#d5f0d9' : st.textColor) + '; opacity: ' + (white ? 1 : 0.8));
+			csInfo.appendChild(name);
+			csInfo.appendChild(el('div', 'wa__cs_status', WA_I18N.online));
+			txt.appendChild(csInfo);
+		}
+		var title = el('div', 'wa__btn_title', st.label || '');
+		title.setAttribute('style', 'color: ' + st.textColor);
+		txt.appendChild(title);
+		a.appendChild(img);
+		a.appendChild(txt);
+		holder.innerHTML = '';
+		holder.appendChild(a);
+	}
+
+	function createWaWidget(holder, cfg) {
+		var s = cfg.options.styles;
+		holder.classList.add('wa__widget_container');
+
+		var label = el('div', 'wa__btn_popup_txt');
+		label.appendChild(el('span', '', s.btnLabel));
+		label.style.display = s.isShowBtnLabel === 'ON' ? 'block' : 'none';
+		label.style.left = s.btnPosition === 'left' ? '100%' : 'unset';
+		label.style.right = s.btnPosition === 'right' ? '100%' : 'unset';
+		label.style.marginRight = s.btnPosition === 'right' ? '7px' : '0px';
+		label.style.marginLeft = s.btnPosition === 'left' ? '7px' : '0px';
+		label.style.width = s.btnLabelWidth + 'px';
+		var icon = el('div', 'wa__btn_popup_icon');
+		icon.style.background = s.backgroundColor;
+		var btn = el('div', 'wa__btn_popup');
+		btn.appendChild(label);
+		btn.appendChild(icon);
+		btn.style.left = s.btnPosition === 'left' ? parseInt(s.btnLeftDistance, 10) + 'px' : 'unset';
+		btn.style.right = s.btnPosition === 'right' ? parseInt(s.btnRightDistance, 10) + 'px' : 'unset';
+		btn.style.bottom = parseInt(s.btnBottomDistance, 10) + 'px';
+		holder.appendChild(btn);
+
+		var white = s.textColor === '#fff' || s.textColor === '#ffffff';
+		var heading = el('div', 'wa__popup_heading');
+		heading.style.background = s.backgroundColor;
+		var title = el('div', 'wa__popup_title', s.title);
+		title.style.color = s.textColor;
+		title.style.fontSize = s.titleSize + 'px';
+		var intro = el('div', 'wa__popup_intro', s.description.replace(/\r\n\r\n/gm, '<br/>'));
+		intro.setAttribute('style', white ? 'color: #D9EBC6' : 'color: ' + s.textColor + '; opacity: 0.8');
+		intro.style.fontSize = s.descriptionTextSize + 'px';
+		heading.appendChild(title);
+		heading.appendChild(intro);
+
+		var content = el('div', 'wa__popup_content wa__popup_content_left');
+		var notice = el('div', 'wa__popup_notice', s.responseText.replace(/\r\n\r\n/gm, '<br/>'));
+		notice.style.fontSize = s.regularTextSize + 'px';
+		content.appendChild(notice);
+		var list = el('div', 'wa__popup_content_list');
+		cfg.accounts.forEach(function (acc) {
+			var avatar = localUrl(acc.avatar);
+			var av = el('div', 'wa__popup_avatar' + (avatar ? '' : ' nta-default-avt'));
+			if (avatar) {
+				var w = el('div', 'wa__cs_img_wrap');
+				w.setAttribute('style', 'background: url(' + avatar + ') center center no-repeat; background-size: cover;');
+				av.appendChild(w);
+			}
+			var item = el('div', 'wa__popup_content_item');
+			var link = el('a', 'wa__stt wa__stt_online');
+			link.setAttribute('target', '_blank');
+			link.setAttribute('href', waHref(acc));
+			link.setAttribute('rel', 'nofollow noopener noreferrer');
+			link.appendChild(av);
+			link.appendChild(el('div', 'wa__popup_txt',
+				'<div class="wa__member_name" style=\'font-size:' + s.accountNameSize + 'px\'>' + escapeHtml(acc.accountName) + '</div>' +
+				'<div class="wa__member_duty" style=\'font-size:' + s.regularTextSize + 'px\'>' + escapeHtml(acc.title) + '</div>'));
+			item.appendChild(link);
+			list.appendChild(item);
+		});
+		content.appendChild(list);
+		if (s.isShowScroll === 'ON') {
+			content.style.maxHeight = parseInt(s.scrollHeight, 10) + 'px';
+			content.style.overflow = 'auto';
+		}
+		var box = el('div', 'wa__popup_chat_box');
+		box.appendChild(heading);
+		box.appendChild(content);
+		box.style.left = s.btnPosition === 'left' ? parseInt(s.btnLeftDistance, 10) + 'px' : 'unset';
+		box.style.right = s.btnPosition === 'right' ? parseInt(s.btnRightDistance, 10) + 'px' : 'unset';
+		box.style.bottom = parseInt(s.btnBottomDistance, 10) + 72 + 'px';
+		holder.appendChild(box);
+
+		var t1, t2;
+		btn.addEventListener('click', function () {
+			if (box.classList.contains('wa__active')) {
+				box.classList.remove('wa__active');
+				btn.classList.remove('wa__active');
+				clearTimeout(t2);
+				if (box.classList.contains('wa__lauch')) {
+					t1 = setTimeout(function () { box.classList.remove('wa__pending', 'wa__lauch'); }, 400);
+				}
+			} else {
+				box.classList.add('wa__pending', 'wa__active');
+				btn.classList.add('wa__active');
+				clearTimeout(t1);
+				if (!box.classList.contains('wa__lauch')) {
+					t2 = setTimeout(function () { box.classList.add('wa__lauch'); }, 100);
+				}
+			}
+		});
 	}
 
 	function initWhatsApp() {
-		var accounts = [];
-		document.querySelectorAll('.nta_wa_button[data-info]').forEach(function (el) {
-			var info;
+		document.querySelectorAll('.nta_wa_button[data-info]').forEach(function (holder) {
 			try {
-				info = JSON.parse(el.getAttribute('data-info'));
-			} catch (e) {
-				return;
-			}
-			if (info.avatar) info.avatar = info.avatar.replace(/^https?:\/\/motoperitaje\.com/, '');
-			el.innerHTML = '';
-			el.appendChild(accountButton(info));
+				createWaButton(holder, JSON.parse(holder.getAttribute('data-info')));
+			} catch (e) { /* configuración inválida: se deja vacío como hacía el plugin */ }
 		});
-
-		// Botón flotante (widget global del plugin)
 		var holder = document.getElementById('wa');
-		var data = window.MP_WHATSAPP_WIDGET;
-		if (!holder || !data) return;
-		accounts = data.accounts || [];
-		var widget = document.createElement('div');
-		widget.className = 'wa__widget';
-		widget.innerHTML =
-			'<div class="wa__popup_chat_box" role="dialog" aria-label="' + escapeHtml(data.title) + '">' +
-			'<div class="wa__popup_heading"><div class="wa__popup_title">' + escapeHtml(data.title) + '</div>' +
-			'<div class="wa__popup_intro">' + escapeHtml(data.description) + '</div>' +
-			'<button type="button" class="wa__popup_close" aria-label="Cerrar">&times;</button></div>' +
-			'<div class="wa__popup_content"><div class="wa__popup_notice">' + escapeHtml(data.notice || '') + '</div></div></div>' +
-			'<div class="wa__btn_popup" role="button" tabindex="0" aria-label="WhatsApp">' +
-			(data.label ? '<div class="wa__btn_popup_txt" style="width:' + (data.labelWidth || 156) + 'px">' + data.label + '</div>' : '') +
-			'<div class="wa__btn_popup_icon"></div></div>';
-		var content = widget.querySelector('.wa__popup_content');
-		accounts.forEach(function (acc) { content.appendChild(accountButton(acc, 'wa__popup_account')); });
-		var box = widget.querySelector('.wa__popup_chat_box');
-		var btn = widget.querySelector('.wa__btn_popup');
-		btn.addEventListener('click', function () { box.classList.toggle('wa__active'); });
-		btn.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); btn.click(); } });
-		widget.querySelector('.wa__popup_close').addEventListener('click', function () { box.classList.remove('wa__active'); });
-		holder.appendChild(widget);
+		if (holder && window.MP_WHATSAPP) createWaWidget(holder, window.MP_WHATSAPP);
 	}
 
 	/* ---------- Formularios (antes WPForms / Bookly): se envían por WhatsApp ---------- */
